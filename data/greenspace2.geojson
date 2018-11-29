@@ -1,0 +1,7159 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3778025,47.54045218 ]
+    },
+    "properties": {
+    "OBJECTID":1,
+    "PMA":4463,
+    "PARKSBND_AREA":6165.400694,
+    "Shape_Length":157.1463496,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.316248,47.60714388 ]
+    },
+    "properties": {
+    "OBJECTID":2,
+    "PMA":4467,
+    "PARKSBND_AREA":7316.172948,
+    "Shape_Length":154.9650604,
+    "Shape_Area":1494.453629
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3738006,47.66138567 ]
+    },
+    "properties": {
+    "OBJECTID":3,
+    "PMA":4010,
+    "PARKSBND_AREA":27888.35131,
+    "Shape_Length":343.4767696,
+    "Shape_Area":5697.919816
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3095206,47.66650821 ]
+    },
+    "properties": {
+    "OBJECTID":4,
+    "PMA":4160,
+    "PARKSBND_AREA":71950.87877,
+    "Shape_Length":2674.285324,
+    "Shape_Area":14833.16943
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2927957,47.62507405 ]
+    },
+    "properties": {
+    "OBJECTID":5,
+    "PMA":296,
+    "PARKSBND_AREA":14679.93027,
+    "Shape_Length":261.4296945,
+    "Shape_Area":3026.142349
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3935596,47.56985503 ]
+    },
+    "properties": {
+    "OBJECTID":6,
+    "PMA":4590,
+    "PARKSBND_AREA":14467.91169,
+    "Shape_Length":217.5970175,
+    "Shape_Area":2951.100175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2912022,47.69128318 ]
+    },
+    "properties": {
+    "OBJECTID":7,
+    "PMA":654,
+    "PARKSBND_AREA":13710.69228,
+    "Shape_Length":212.6838761,
+    "Shape_Area":2808.24455
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3486542,47.65023051 ]
+    },
+    "properties": {
+    "OBJECTID":8,
+    "PMA":4404,
+    "PARKSBND_AREA":11546.51953,
+    "Shape_Length":195.6929648,
+    "Shape_Area":2362.437846
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.357718,47.61666891 ]
+    },
+    "properties": {
+    "OBJECTID":9,
+    "PMA":4449,
+    "PARKSBND_AREA":95870.358,
+    "Shape_Length":892.3058175,
+    "Shape_Area":19560.02752
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2984079,47.72061429 ]
+    },
+    "properties": {
+    "OBJECTID":10,
+    "PMA":244,
+    "PARKSBND_AREA":58459.98289,
+    "Shape_Length":551.7919673,
+    "Shape_Area":11992.17829
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3547541,47.68830712 ]
+    },
+    "properties": {
+    "OBJECTID":11,
+    "PMA":4484,
+    "PARKSBND_AREA":18698.81889,
+    "Shape_Length":270.5575858,
+    "Shape_Area":3831.382583
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4084575,47.58301194 ]
+    },
+    "properties": {
+    "OBJECTID":12,
+    "PMA":445,
+    "PARKSBND_AREA":5919768.154,
+    "Shape_Length":10735.38147,
+    "Shape_Area":1208353.747
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4078654,47.5794486 ]
+    },
+    "properties": {
+    "OBJECTID":13,
+    "PMA":446,
+    "PARKSBND_AREA":197688.8946,
+    "Shape_Length":884.4211411,
+    "Shape_Area":40337.7909
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2886982,47.61454109 ]
+    },
+    "properties": {
+    "OBJECTID":14,
+    "PMA":3914,
+    "PARKSBND_AREA":28512.23451,
+    "Shape_Length":324.0415669,
+    "Shape_Area":5825.069756
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2978383,47.58624233 ]
+    },
+    "properties": {
+    "OBJECTID":15,
+    "PMA":426,
+    "PARKSBND_AREA":368391.3025,
+    "Shape_Length":1633.428363,
+    "Shape_Area":75135.08782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4092923,47.56854465 ]
+    },
+    "properties": {
+    "OBJECTID":16,
+    "PMA":2927,
+    "PARKSBND_AREA":8357.088812,
+    "Shape_Length":307.4797656,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409252,47.65135995 ]
+    },
+    "properties": {
+    "OBJECTID":17,
+    "PMA":1556,
+    "PARKSBND_AREA":1554.166985,
+    "Shape_Length":91.37543541,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3846849,47.50426453 ]
+    },
+    "properties": {
+    "OBJECTID":18,
+    "PMA":485,
+    "PARKSBND_AREA":157202.1402,
+    "Shape_Length":1084.090802,
+    "Shape_Area":32017.58713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3857609,47.50430129 ]
+    },
+    "properties": {
+    "OBJECTID":19,
+    "PMA":485,
+    "PARKSBND_AREA":150631.0754,
+    "Shape_Length":1585.687183,
+    "Shape_Area":30705.47893
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2621622,47.52342228 ]
+    },
+    "properties": {
+    "OBJECTID":20,
+    "PMA":4081,
+    "PARKSBND_AREA":278166.6605,
+    "Shape_Length":1024.555245,
+    "Shape_Area":56637.26594
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3052915,47.58955334 ]
+    },
+    "properties": {
+    "OBJECTID":21,
+    "PMA":4243,
+    "PARKSBND_AREA":32080.56392,
+    "Shape_Length":490.8091904,
+    "Shape_Area":6526.309463
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3487049,47.65559042 ]
+    },
+    "properties": {
+    "OBJECTID":22,
+    "PMA":241,
+    "PARKSBND_AREA":102835.9176,
+    "Shape_Length":594.768497,
+    "Shape_Area":21041.3642
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.318684,47.64309331 ]
+    },
+    "properties": {
+    "OBJECTID":23,
+    "PMA":4006,
+    "PARKSBND_AREA":6224.079938,
+    "Shape_Length":159.5692324,
+    "Shape_Area":1273.105213
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3742454,47.69003072 ]
+    },
+    "properties": {
+    "OBJECTID":24,
+    "PMA":2840,
+    "PARKSBND_AREA":27625.63201,
+    "Shape_Length":363.6197354,
+    "Shape_Area":5660.910813
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3848775,47.67082192 ]
+    },
+    "properties": {
+    "OBJECTID":25,
+    "PMA":4278,
+    "PARKSBND_AREA":59954.1216,
+    "Shape_Length":452.1919745,
+    "Shape_Area":12276.34231
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3790157,47.67418652 ]
+    },
+    "properties": {
+    "OBJECTID":26,
+    "PMA":4428,
+    "PARKSBND_AREA":10004.27147,
+    "Shape_Length":226.5257942,
+    "Shape_Area":2048.785374
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3928645,47.67310104 ]
+    },
+    "properties": {
+    "OBJECTID":27,
+    "PMA":497,
+    "PARKSBND_AREA":149391.9773,
+    "Shape_Length":793.8783352,
+    "Shape_Area":30594.25212
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3758512,47.67772579 ]
+    },
+    "properties": {
+    "OBJECTID":28,
+    "PMA":498,
+    "PARKSBND_AREA":36497.72377,
+    "Shape_Length":346.3167787,
+    "Shape_Area":7475.310812
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.321699,47.68425784 ]
+    },
+    "properties": {
+    "OBJECTID":29,
+    "PMA":4073,
+    "PARKSBND_AREA":9610.858802,
+    "Shape_Length":303.8514321,
+    "Shape_Area":1967.932698
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4153416,47.57587818 ]
+    },
+    "properties": {
+    "OBJECTID":30,
+    "PMA":3703,
+    "PARKSBND_AREA":184597.5594,
+    "Shape_Length":813.3254647,
+    "Shape_Area":37660.60968
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3865739,47.64460918 ]
+    },
+    "properties": {
+    "OBJECTID":31,
+    "PMA":303,
+    "PARKSBND_AREA":201447.5726,
+    "Shape_Length":838.9316158,
+    "Shape_Area":41224.38471
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.315285,47.58692372 ]
+    },
+    "properties": {
+    "OBJECTID":32,
+    "PMA":400,
+    "PARKSBND_AREA":128761.0412,
+    "Shape_Length":680.145975,
+    "Shape_Area":26286.68983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3184797,47.59646964 ]
+    },
+    "properties": {
+    "OBJECTID":33,
+    "PMA":3119,
+    "PARKSBND_AREA":10864.56749,
+    "Shape_Length":214.1820338,
+    "Shape_Area":2187.783221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3179852,47.70683776 ]
+    },
+    "properties": {
+    "OBJECTID":34,
+    "PMA":4481,
+    "PARKSBND_AREA":297351.1833,
+    "Shape_Length":2693.93542,
+    "Shape_Area":60970.65037
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2636845,47.52552374 ]
+    },
+    "properties": {
+    "OBJECTID":35,
+    "PMA":440,
+    "PARKSBND_AREA":254461.7461,
+    "Shape_Length":1116.729682,
+    "Shape_Area":51849.26613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.346004,47.61363134 ]
+    },
+    "properties": {
+    "OBJECTID":36,
+    "PMA":4472,
+    "PARKSBND_AREA":61371.93841,
+    "Shape_Length":1079.955126,
+    "Shape_Area":12540.04797
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3274946,47.6278628 ]
+    },
+    "properties": {
+    "OBJECTID":37,
+    "PMA":4022,
+    "PARKSBND_AREA":54064.22882,
+    "Shape_Length":825.8124812,
+    "Shape_Area":11066.00147
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3429116,47.61577241 ]
+    },
+    "properties": {
+    "OBJECTID":38,
+    "PMA":4485,
+    "PARKSBND_AREA":6473.537402,
+    "Shape_Length":151.8387146,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3506253,47.61388186 ]
+    },
+    "properties": {
+    "OBJECTID":39,
+    "PMA":4415,
+    "PARKSBND_AREA":7215.513455,
+    "Shape_Length":162.8166758,
+    "Shape_Area":1474.262948
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3508247,47.61397825 ]
+    },
+    "properties": {
+    "OBJECTID":40,
+    "PMA":3908,
+    "PARKSBND_AREA":7213.721165,
+    "Shape_Length":162.8083797,
+    "Shape_Area":1473.924665
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3244912,47.62577011 ]
+    },
+    "properties": {
+    "OBJECTID":41,
+    "PMA":346,
+    "PARKSBND_AREA":758.938731,
+    "Shape_Length":61.82428252,
+    "Shape_Area":155.6129439
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3760521,47.58063325 ]
+    },
+    "properties": {
+    "OBJECTID":42,
+    "PMA":447,
+    "PARKSBND_AREA":72781.94053,
+    "Shape_Length":697.0969497,
+    "Shape_Area":14860.02538
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2826838,47.65525914 ]
+    },
+    "properties": {
+    "OBJECTID":43,
+    "PMA":475,
+    "PARKSBND_AREA":17919.58524,
+    "Shape_Length":345.8410531,
+    "Shape_Area":3662.402828
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2838605,47.51866751 ]
+    },
+    "properties": {
+    "OBJECTID":44,
+    "PMA":436,
+    "PARKSBND_AREA":103198.4937,
+    "Shape_Length":627.49787,
+    "Shape_Area":21005.36697
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3023686,47.59114487 ]
+    },
+    "properties": {
+    "OBJECTID":45,
+    "PMA":4245,
+    "PARKSBND_AREA":72483.73968,
+    "Shape_Length":1729.638657,
+    "Shape_Area":14753.43738
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3846119,47.66854118 ]
+    },
+    "properties": {
+    "OBJECTID":46,
+    "PMA":253,
+    "PARKSBND_AREA":6891.305541,
+    "Shape_Length":165.7070716,
+    "Shape_Area":1411.653965
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3491869,47.6306779 ]
+    },
+    "properties": {
+    "OBJECTID":47,
+    "PMA":304,
+    "PARKSBND_AREA":66733.00163,
+    "Shape_Length":519.4190986,
+    "Shape_Area":13632.06563
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3504769,47.7319355 ]
+    },
+    "properties": {
+    "OBJECTID":48,
+    "PMA":4450,
+    "PARKSBND_AREA":125374.3592,
+    "Shape_Length":1661.988556,
+    "Shape_Area":25721.33583
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3503856,47.72504281 ]
+    },
+    "properties": {
+    "OBJECTID":49,
+    "PMA":288,
+    "PARKSBND_AREA":326006.2648,
+    "Shape_Length":1040.015684,
+    "Shape_Area":66837.3411
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3642538,47.6268815 ]
+    },
+    "properties": {
+    "OBJECTID":50,
+    "PMA":3907,
+    "PARKSBND_AREA":1353.864884,
+    "Shape_Length":87.15156138,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2997121,47.66633537 ]
+    },
+    "properties": {
+    "OBJECTID":51,
+    "PMA":4435,
+    "PARKSBND_AREA":15409.74366,
+    "Shape_Length":481.6056812,
+    "Shape_Area":3176.810225
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2989674,47.58954041 ]
+    },
+    "properties": {
+    "OBJECTID":52,
+    "PMA":4418,
+    "PARKSBND_AREA":98573.8484,
+    "Shape_Length":598.0812796,
+    "Shape_Area":20125.77832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.380478,47.70443191 ]
+    },
+    "properties": {
+    "OBJECTID":53,
+    "PMA":238,
+    "PARKSBND_AREA":4276.22778,
+    "Shape_Length":105.7784643,
+    "Shape_Area":858.3983518
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3812757,47.70293697 ]
+    },
+    "properties": {
+    "OBJECTID":54,
+    "PMA":239,
+    "PARKSBND_AREA":8637.190288,
+    "Shape_Length":248.1993902,
+    "Shape_Area":1761.988016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3104413,47.63505647 ]
+    },
+    "properties": {
+    "OBJECTID":55,
+    "PMA":362,
+    "PARKSBND_AREA":315198.9331,
+    "Shape_Length":1156.116469,
+    "Shape_Area":64447.54633
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3209083,47.60508181 ]
+    },
+    "properties": {
+    "OBJECTID":56,
+    "PMA":3116,
+    "PARKSBND_AREA":1158.578556,
+    "Shape_Length":77.45408711,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3209202,47.61000972 ]
+    },
+    "properties": {
+    "OBJECTID":57,
+    "PMA":349,
+    "PARKSBND_AREA":199.708571,
+    "Shape_Length":32.14598132,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2950353,47.58700596 ]
+    },
+    "properties": {
+    "OBJECTID":58,
+    "PMA":401,
+    "PARKSBND_AREA":68024.51271,
+    "Shape_Length":478.4316018,
+    "Shape_Area":13865.95047
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2832402,47.54712187 ]
+    },
+    "properties": {
+    "OBJECTID":59,
+    "PMA":402,
+    "PARKSBND_AREA":535932.9988,
+    "Shape_Length":1360.745628,
+    "Shape_Area":109201.9895
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3183265,47.6233646 ]
+    },
+    "properties": {
+    "OBJECTID":60,
+    "PMA":4474,
+    "PARKSBND_AREA":11955.95687,
+    "Shape_Length":198.5451046,
+    "Shape_Area":2443.706745
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2827484,47.67553579 ]
+    },
+    "properties": {
+    "OBJECTID":61,
+    "PMA":482,
+    "PARKSBND_AREA":134787.0161,
+    "Shape_Length":739.3292657,
+    "Shape_Area":27603.06652
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3228433,47.62958722 ]
+    },
+    "properties": {
+    "OBJECTID":62,
+    "PMA":4609,
+    "PARKSBND_AREA":69004.1365,
+    "Shape_Length":479.3291332,
+    "Shape_Area":14103.85009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2809547,47.66755061 ]
+    },
+    "properties": {
+    "OBJECTID":63,
+    "PMA":496,
+    "PARKSBND_AREA":310421.9652,
+    "Shape_Length":1975.604833,
+    "Shape_Area":63604.55444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.27506,47.70491508 ]
+    },
+    "properties": {
+    "OBJECTID":64,
+    "PMA":476,
+    "PARKSBND_AREA":3380688.351,
+    "Shape_Length":41257.22197,
+    "Shape_Area":691959.5405
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3182967,47.61548204 ]
+    },
+    "properties": {
+    "OBJECTID":65,
+    "PMA":3102,
+    "PARKSBND_AREA":480828.4512,
+    "Shape_Length":1449.764808,
+    "Shape_Area":98267.09379
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3865251,47.58593696 ]
+    },
+    "properties": {
+    "OBJECTID":66,
+    "PMA":448,
+    "PARKSBND_AREA":10616.05103,
+    "Shape_Length":225.4768106,
+    "Shape_Area":2171.554009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3758888,47.55854683 ]
+    },
+    "properties": {
+    "OBJECTID":67,
+    "PMA":4154,
+    "PARKSBND_AREA":2375764.711,
+    "Shape_Length":3140.768417,
+    "Shape_Area":484476.7072
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3715039,47.71239673 ]
+    },
+    "properties": {
+    "OBJECTID":68,
+    "PMA":240,
+    "PARKSBND_AREA":7763863.962,
+    "Shape_Length":16161.40922,
+    "Shape_Area":1592500.212
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406552,47.63947994 ]
+    },
+    "properties": {
+    "OBJECTID":69,
+    "PMA":305,
+    "PARKSBND_AREA":3813.374004,
+    "Shape_Length":113.94944,
+    "Shape_Area":772.3051282
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416318,47.65043954 ]
+    },
+    "properties": {
+    "OBJECTID":70,
+    "PMA":4049,
+    "PARKSBND_AREA":35357.4415,
+    "Shape_Length":421.7013523,
+    "Shape_Area":7234.207537
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3581263,47.66628554 ]
+    },
+    "properties": {
+    "OBJECTID":71,
+    "PMA":3902,
+    "PARKSBND_AREA":1205.851724,
+    "Shape_Length":65.13586149,
+    "Shape_Area":234.7492029
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3318292,47.62139272 ]
+    },
+    "properties": {
+    "OBJECTID":72,
+    "PMA":350,
+    "PARKSBND_AREA":88453.93184,
+    "Shape_Length":772.9558142,
+    "Shape_Area":18074.43062
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3989677,47.6431899 ]
+    },
+    "properties": {
+    "OBJECTID":73,
+    "PMA":0,
+    "PARKSBND_AREA":216541.5378,
+    "Shape_Length":966.2109641,
+    "Shape_Area":44293.2168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3075528,47.61633003 ]
+    },
+    "properties": {
+    "OBJECTID":74,
+    "PMA":4478,
+    "PARKSBND_AREA":4560.188439,
+    "Shape_Length":153.1203087,
+    "Shape_Area":931.8153304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2885479,47.72635668 ]
+    },
+    "properties": {
+    "OBJECTID":75,
+    "PMA":4167,
+    "PARKSBND_AREA":92179.05992,
+    "Shape_Length":581.3017514,
+    "Shape_Area":18914.18979
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.32537,47.52688401 ]
+    },
+    "properties": {
+    "OBJECTID":76,
+    "PMA":4448,
+    "PARKSBND_AREA":7604.621622,
+    "Shape_Length":176.9647369,
+    "Shape_Area":1548.58573
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4181422,47.5744077 ]
+    },
+    "properties": {
+    "OBJECTID":77,
+    "PMA":80,
+    "PARKSBND_AREA":485925.649,
+    "Shape_Length":3335.439298,
+    "Shape_Area":99199.2478
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2982648,47.57604681 ]
+    },
+    "properties": {
+    "OBJECTID":78,
+    "PMA":4214,
+    "PARKSBND_AREA":842551.4209,
+    "Shape_Length":6292.005169,
+    "Shape_Area":171832.5789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2999097,47.56101279 ]
+    },
+    "properties": {
+    "OBJECTID":79,
+    "PMA":258,
+    "PARKSBND_AREA":1732845.351,
+    "Shape_Length":9035.110587,
+    "Shape_Area":353580.3574
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.300386,47.57772017 ]
+    },
+    "properties": {
+    "OBJECTID":80,
+    "PMA":489,
+    "PARKSBND_AREA":271166.2672,
+    "Shape_Length":2832.711145,
+    "Shape_Area":55324.22495
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2968038,47.56015317 ]
+    },
+    "properties": {
+    "OBJECTID":81,
+    "PMA":269,
+    "PARKSBND_AREA":368048.0548,
+    "Shape_Length":2121.265905,
+    "Shape_Area":75048.23943
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3158757,47.5987548 ]
+    },
+    "properties": {
+    "OBJECTID":82,
+    "PMA":4489,
+    "PARKSBND_AREA":11670.25183,
+    "Shape_Length":256.3925967,
+    "Shape_Area":2383.075267
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2573087,47.51950419 ]
+    },
+    "properties": {
+    "OBJECTID":83,
+    "PMA":421,
+    "PARKSBND_AREA":104326.7377,
+    "Shape_Length":821.3431888,
+    "Shape_Area":21273.11048
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2775974,47.69655175 ]
+    },
+    "properties": {
+    "OBJECTID":84,
+    "PMA":4620,
+    "PARKSBND_AREA":108667.925,
+    "Shape_Length":1225.842201,
+    "Shape_Area":22249.19238
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3188694,47.65917107 ]
+    },
+    "properties": {
+    "OBJECTID":85,
+    "PMA":595,
+    "PARKSBND_AREA":9973.348762,
+    "Shape_Length":180.7224242,
+    "Shape_Area":2041.298933
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3292097,47.60182464 ]
+    },
+    "properties": {
+    "OBJECTID":86,
+    "PMA":306,
+    "PARKSBND_AREA":41161.78443,
+    "Shape_Length":384.1464382,
+    "Shape_Area":8406.261168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3160008,47.55270675 ]
+    },
+    "properties": {
+    "OBJECTID":87,
+    "PMA":404,
+    "PARKSBND_AREA":112311.4084,
+    "Shape_Length":654.2050724,
+    "Shape_Area":22859.78349
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3661294,47.64023568 ]
+    },
+    "properties": {
+    "OBJECTID":88,
+    "PMA":3985,
+    "PARKSBND_AREA":7012.701527,
+    "Shape_Length":154.6260376,
+    "Shape_Area":1434.261284
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2949911,47.5828325 ]
+    },
+    "properties": {
+    "OBJECTID":89,
+    "PMA":3922,
+    "PARKSBND_AREA":18209.34595,
+    "Shape_Length":284.1227595,
+    "Shape_Area":3715.606388
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3953491,47.58368121 ]
+    },
+    "properties": {
+    "OBJECTID":90,
+    "PMA":260,
+    "PARKSBND_AREA":116624.1114,
+    "Shape_Length":1979.37368,
+    "Shape_Area":23796.82001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2915038,47.58715362 ]
+    },
+    "properties": {
+    "OBJECTID":91,
+    "PMA":405,
+    "PARKSBND_AREA":585621.4605,
+    "Shape_Length":4152.335599,
+    "Shape_Area":119546.3662
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3024614,47.58828941 ]
+    },
+    "properties": {
+    "OBJECTID":92,
+    "PMA":406,
+    "PARKSBND_AREA":121974.9676,
+    "Shape_Length":651.6394384,
+    "Shape_Area":24877.78801
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2872183,47.5595648 ]
+    },
+    "properties": {
+    "OBJECTID":93,
+    "PMA":4034,
+    "PARKSBND_AREA":113695.5683,
+    "Shape_Length":788.6924695,
+    "Shape_Area":23176.08011
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.401374,47.66619774 ]
+    },
+    "properties": {
+    "OBJECTID":94,
+    "PMA":308,
+    "PARKSBND_AREA":210117.8082,
+    "Shape_Length":1308.065621,
+    "Shape_Area":43006.09648
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3959155,47.63811743 ]
+    },
+    "properties": {
+    "OBJECTID":95,
+    "PMA":4030,
+    "PARKSBND_AREA":23988.47408,
+    "Shape_Length":1288.381617,
+    "Shape_Area":4937.132306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3309408,47.66503987 ]
+    },
+    "properties": {
+    "OBJECTID":96,
+    "PMA":4017,
+    "PARKSBND_AREA":6585.786827,
+    "Shape_Length":177.5931759,
+    "Shape_Area":1332.725474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4116923,47.57117786 ]
+    },
+    "properties": {
+    "OBJECTID":97,
+    "PMA":295,
+    "PARKSBND_AREA":85672.47315,
+    "Shape_Length":741.1410152,
+    "Shape_Area":17461.13636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3649698,47.55392487 ]
+    },
+    "properties": {
+    "OBJECTID":98,
+    "PMA":4462,
+    "PARKSBND_AREA":47775.66899,
+    "Shape_Length":468.1579085,
+    "Shape_Area":9741.304517
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3560793,47.62581808 ]
+    },
+    "properties": {
+    "OBJECTID":99,
+    "PMA":4438,
+    "PARKSBND_AREA":12018.51709,
+    "Shape_Length":199.0490078,
+    "Shape_Area":2456.713356
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3141184,47.67330245 ]
+    },
+    "properties": {
+    "OBJECTID":100,
+    "PMA":483,
+    "PARKSBND_AREA":367550.699,
+    "Shape_Length":1109.787749,
+    "Shape_Area":75254.12545
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3330113,47.68427433 ]
+    },
+    "properties": {
+    "OBJECTID":101,
+    "PMA":4018,
+    "PARKSBND_AREA":846.248358,
+    "Shape_Length":45.49822847,
+    "Shape_Area":156.1638083
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3811906,47.69359629 ]
+    },
+    "properties": {
+    "OBJECTID":102,
+    "PMA":4070,
+    "PARKSBND_AREA":15706.56918,
+    "Shape_Length":235.1469749,
+    "Shape_Area":3218.972855
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3739801,47.69664999 ]
+    },
+    "properties": {
+    "OBJECTID":103,
+    "PMA":4469,
+    "PARKSBND_AREA":74517.43697,
+    "Shape_Length":548.0395646,
+    "Shape_Area":15273.61296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3134539,47.5932266 ]
+    },
+    "properties": {
+    "OBJECTID":104,
+    "PMA":4400,
+    "PARKSBND_AREA":150528.1535,
+    "Shape_Length":1243.609706,
+    "Shape_Area":30672.31069
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2998977,47.68659242 ]
+    },
+    "properties": {
+    "OBJECTID":105,
+    "PMA":499,
+    "PARKSBND_AREA":630359.0368,
+    "Shape_Length":1470.608526,
+    "Shape_Area":129099.2287
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3869335,47.56674149 ]
+    },
+    "properties": {
+    "OBJECTID":106,
+    "PMA":575,
+    "PARKSBND_AREA":20438.68752,
+    "Shape_Length":264.4954249,
+    "Shape_Area":4168.478513
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3607484,47.6450526 ]
+    },
+    "properties": {
+    "OBJECTID":107,
+    "PMA":331,
+    "PARKSBND_AREA":414816.8515,
+    "Shape_Length":1165.115538,
+    "Shape_Area":84849.12041
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2942232,47.55265122 ]
+    },
+    "properties": {
+    "OBJECTID":108,
+    "PMA":408,
+    "PARKSBND_AREA":312713.6834,
+    "Shape_Length":1783.127113,
+    "Shape_Area":63744.3697
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.359722,47.5396902 ]
+    },
+    "properties": {
+    "OBJECTID":109,
+    "PMA":4423,
+    "PARKSBND_AREA":130796.4836,
+    "Shape_Length":714.813832,
+    "Shape_Area":26648.55921
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3653385,47.56465445 ]
+    },
+    "properties": {
+    "OBJECTID":110,
+    "PMA":450,
+    "PARKSBND_AREA":610313.9201,
+    "Shape_Length":1620.697698,
+    "Shape_Area":124462.5112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3618778,47.55128092 ]
+    },
+    "properties": {
+    "OBJECTID":111,
+    "PMA":623,
+    "PARKSBND_AREA":20015.67453,
+    "Shape_Length":271.099719,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3317625,47.66355555 ]
+    },
+    "properties": {
+    "OBJECTID":112,
+    "PMA":3883,
+    "PARKSBND_AREA":23526.58332,
+    "Shape_Length":281.5635156,
+    "Shape_Area":4816.033576
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.285078,47.61831394 ]
+    },
+    "properties": {
+    "OBJECTID":113,
+    "PMA":3980,
+    "PARKSBND_AREA":8159.803637,
+    "Shape_Length":146.7121146,
+    "Shape_Area":1634.805652
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2800873,47.62004211 ]
+    },
+    "properties": {
+    "OBJECTID":114,
+    "PMA":3982,
+    "PARKSBND_AREA":24445.85952,
+    "Shape_Length":441.1578667,
+    "Shape_Area":4996.691275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3421774,47.61962833 ]
+    },
+    "properties": {
+    "OBJECTID":115,
+    "PMA":309,
+    "PARKSBND_AREA":201514.3527,
+    "Shape_Length":830.9358216,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4184421,47.66849767 ]
+    },
+    "properties": {
+    "OBJECTID":116,
+    "PMA":0,
+    "PARKSBND_AREA":852536.5783,
+    "Shape_Length":1727.404576,
+    "Shape_Area":174562.0551
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4118072,47.65864795 ]
+    },
+    "properties": {
+    "OBJECTID":117,
+    "PMA":310,
+    "PARKSBND_AREA":22549978.4,
+    "Shape_Length":27469.94006,
+    "Shape_Area":4615376.782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4342182,47.66139419 ]
+    },
+    "properties": {
+    "OBJECTID":118,
+    "PMA":2952,
+    "PARKSBND_AREA":26776.07363,
+    "Shape_Length":476.6221644,
+    "Shape_Area":5480.938286
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4089849,47.66030751 ]
+    },
+    "properties": {
+    "OBJECTID":119,
+    "PMA":4470,
+    "PARKSBND_AREA":393363.1306,
+    "Shape_Length":8321.04002,
+    "Shape_Area":80270.28847
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4362398,47.66189402 ]
+    },
+    "properties": {
+    "OBJECTID":120,
+    "PMA":16548,
+    "PARKSBND_AREA":87273.74229,
+    "Shape_Length":642.1867628,
+    "Shape_Area":17864.02745
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4112718,47.66170935 ]
+    },
+    "properties": {
+    "OBJECTID":121,
+    "PMA":4470,
+    "PARKSBND_AREA":289907.9216,
+    "Shape_Length":7167.546416,
+    "Shape_Area":59206.13929
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4329189,47.65409322 ]
+    },
+    "properties": {
+    "OBJECTID":122,
+    "PMA":2952,
+    "PARKSBND_AREA":13341754.57,
+    "Shape_Length":48430.10974,
+    "Shape_Area":2730803.294
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3827687,47.59410003 ]
+    },
+    "properties": {
+    "OBJECTID":123,
+    "PMA":3917,
+    "PARKSBND_AREA":209010.3135,
+    "Shape_Length":1128.522012,
+    "Shape_Area":42658.58487
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3232115,47.59709065 ]
+    },
+    "properties": {
+    "OBJECTID":124,
+    "PMA":364,
+    "PARKSBND_AREA":9987.897945,
+    "Shape_Length":200.6465318,
+    "Shape_Area":2038.981257
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3038158,47.60122231 ]
+    },
+    "properties": {
+    "OBJECTID":125,
+    "PMA":395,
+    "PARKSBND_AREA":89977.78856,
+    "Shape_Length":988.4108243,
+    "Shape_Area":18335.09406
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3180138,47.59400809 ]
+    },
+    "properties": {
+    "OBJECTID":126,
+    "PMA":433,
+    "PARKSBND_AREA":416913.0951,
+    "Shape_Length":1198.797878,
+    "Shape_Area":85015.1128
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3739192,47.58038809 ]
+    },
+    "properties": {
+    "OBJECTID":127,
+    "PMA":284,
+    "PARKSBND_AREA":901976.7107,
+    "Shape_Length":6664.602182,
+    "Shape_Area":184067.2089
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3789285,47.58542885 ]
+    },
+    "properties": {
+    "OBJECTID":128,
+    "PMA":451,
+    "PARKSBND_AREA":1150735.66,
+    "Shape_Length":10734.87042,
+    "Shape_Area":234846.7675
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3915772,47.58970328 ]
+    },
+    "properties": {
+    "OBJECTID":129,
+    "PMA":454,
+    "PARKSBND_AREA":827544.9459,
+    "Shape_Length":3944.41597,
+    "Shape_Area":168997.4279
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3189742,47.53120982 ]
+    },
+    "properties": {
+    "OBJECTID":130,
+    "PMA":705,
+    "PARKSBND_AREA":64710.11969,
+    "Shape_Length":610.7713769,
+    "Shape_Area":13181.37002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3686266,47.53204763 ]
+    },
+    "properties": {
+    "OBJECTID":131,
+    "PMA":458,
+    "PARKSBND_AREA":276560.4661,
+    "Shape_Length":958.9333507,
+    "Shape_Area":56326.77314
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3187206,47.58660732 ]
+    },
+    "properties": {
+    "OBJECTID":132,
+    "PMA":283,
+    "PARKSBND_AREA":198923.1911,
+    "Shape_Length":2521.718332,
+    "Shape_Area":40590.83037
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3174691,47.58025293 ]
+    },
+    "properties": {
+    "OBJECTID":133,
+    "PMA":430,
+    "PARKSBND_AREA":567162.7963,
+    "Shape_Length":6287.849189,
+    "Shape_Area":115767.4421
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2926918,47.53107503 ]
+    },
+    "properties": {
+    "OBJECTID":134,
+    "PMA":442,
+    "PARKSBND_AREA":1882234.666,
+    "Shape_Length":7595.66913,
+    "Shape_Area":383378.0893
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2859848,47.51572495 ]
+    },
+    "properties": {
+    "OBJECTID":135,
+    "PMA":443,
+    "PARKSBND_AREA":820557.8341,
+    "Shape_Length":7901.977726,
+    "Shape_Area":167037.4519
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3192183,47.56710669 ]
+    },
+    "properties": {
+    "OBJECTID":136,
+    "PMA":3925,
+    "PARKSBND_AREA":262564.7006,
+    "Shape_Length":2493.575284,
+    "Shape_Area":53547.50402
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2760761,47.51715719 ]
+    },
+    "properties": {
+    "OBJECTID":137,
+    "PMA":4046,
+    "PARKSBND_AREA":167559.3535,
+    "Shape_Length":2093.225471,
+    "Shape_Area":34110.88201
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2996933,47.64516425 ]
+    },
+    "properties": {
+    "OBJECTID":138,
+    "PMA":374,
+    "PARKSBND_AREA":332149.2781,
+    "Shape_Length":1167.929179,
+    "Shape_Area":67981.47501
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2864625,47.5897558 ]
+    },
+    "properties": {
+    "OBJECTID":139,
+    "PMA":4241,
+    "PARKSBND_AREA":315731.7983,
+    "Shape_Length":1245.966419,
+    "Shape_Area":64426.86715
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3537837,47.63648148 ]
+    },
+    "properties": {
+    "OBJECTID":140,
+    "PMA":329,
+    "PARKSBND_AREA":60038.35749,
+    "Shape_Length":443.3315846,
+    "Shape_Area":12277.59966
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405389,47.63774236 ]
+    },
+    "properties": {
+    "OBJECTID":141,
+    "PMA":4012,
+    "PARKSBND_AREA":1485.901959,
+    "Shape_Length":98.25182239,
+    "Shape_Area":310.2429277
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3916501,47.64107708 ]
+    },
+    "properties": {
+    "OBJECTID":142,
+    "PMA":318,
+    "PARKSBND_AREA":106301.3573,
+    "Shape_Length":592.760204,
+    "Shape_Area":21742.35562
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407187,47.5648924 ]
+    },
+    "properties": {
+    "OBJECTID":143,
+    "PMA":3920,
+    "PARKSBND_AREA":758109.1845,
+    "Shape_Length":1949.805165,
+    "Shape_Area":154545.6378
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3941749,47.51412163 ]
+    },
+    "properties": {
+    "OBJECTID":144,
+    "PMA":1653,
+    "PARKSBND_AREA":5504.538446,
+    "Shape_Length":243.6613769,
+    "Shape_Area":1124.393617
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3928434,47.56178649 ]
+    },
+    "properties": {
+    "OBJECTID":145,
+    "PMA":4454,
+    "PARKSBND_AREA":23499.06459,
+    "Shape_Length":286.8513511,
+    "Shape_Area":4791.667897
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3816669,47.58072945 ]
+    },
+    "properties": {
+    "OBJECTID":146,
+    "PMA":4410,
+    "PARKSBND_AREA":143964.3472,
+    "Shape_Length":972.4290889,
+    "Shape_Area":29393.13265
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3796631,47.55345501 ]
+    },
+    "properties": {
+    "OBJECTID":147,
+    "PMA":452,
+    "PARKSBND_AREA":229098.3175,
+    "Shape_Length":890.9391772,
+    "Shape_Area":46679.32205
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.324487,47.64764647 ]
+    },
+    "properties": {
+    "OBJECTID":148,
+    "PMA":2975,
+    "PARKSBND_AREA":44896.5873,
+    "Shape_Length":692.3673447,
+    "Shape_Area":9185.164575
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3275669,47.6317189 ]
+    },
+    "properties": {
+    "OBJECTID":149,
+    "PMA":4155,
+    "PARKSBND_AREA":21729.40565,
+    "Shape_Length":432.3321718,
+    "Shape_Area":4455.036321
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3925261,47.52258139 ]
+    },
+    "properties": {
+    "OBJECTID":150,
+    "PMA":3149,
+    "PARKSBND_AREA":8367.044213,
+    "Shape_Length":183.37738,
+    "Shape_Area":1699.938583
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3850656,47.5212066 ]
+    },
+    "properties": {
+    "OBJECTID":151,
+    "PMA":453,
+    "PARKSBND_AREA":1407974.507,
+    "Shape_Length":5708.38302,
+    "Shape_Area":286545.7179
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.379637,47.56279016 ]
+    },
+    "properties": {
+    "OBJECTID":152,
+    "PMA":3921,
+    "PARKSBND_AREA":2973.263269,
+    "Shape_Length":119.2783756,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3087925,47.60861017 ]
+    },
+    "properties": {
+    "OBJECTID":153,
+    "PMA":351,
+    "PARKSBND_AREA":14507.71242,
+    "Shape_Length":233.142799,
+    "Shape_Area":2962.037655
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3253889,47.61208686 ]
+    },
+    "properties": {
+    "OBJECTID":154,
+    "PMA":3910,
+    "PARKSBND_AREA":9450.978449,
+    "Shape_Length":180.7804593,
+    "Shape_Area":1930.859467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2615829,47.51917254 ]
+    },
+    "properties": {
+    "OBJECTID":155,
+    "PMA":3948,
+    "PARKSBND_AREA":2715.858697,
+    "Shape_Length":94.41532921,
+    "Shape_Area":546.9426333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.318226,47.72488874 ]
+    },
+    "properties": {
+    "OBJECTID":156,
+    "PMA":4618,
+    "PARKSBND_AREA":359123.6864,
+    "Shape_Length":1142.570453,
+    "Shape_Area":73720.08101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2956171,47.59980078 ]
+    },
+    "properties": {
+    "OBJECTID":157,
+    "PMA":363,
+    "PARKSBND_AREA":21521.65177,
+    "Shape_Length":270.861979,
+    "Shape_Area":4394.854083
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2895263,47.64311289 ]
+    },
+    "properties": {
+    "OBJECTID":158,
+    "PMA":393,
+    "PARKSBND_AREA":1360732.247,
+    "Shape_Length":3370.389109,
+    "Shape_Area":278234.4698
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2601565,47.51348935 ]
+    },
+    "properties": {
+    "OBJECTID":159,
+    "PMA":439,
+    "PARKSBND_AREA":190877.5961,
+    "Shape_Length":854.0184903,
+    "Shape_Area":38851.36685
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.354549,47.65024053 ]
+    },
+    "properties": {
+    "OBJECTID":160,
+    "PMA":4011,
+    "PARKSBND_AREA":29875.48485,
+    "Shape_Length":1814.570785,
+    "Shape_Area":6162.94447
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3562216,47.66112117 ]
+    },
+    "properties": {
+    "OBJECTID":161,
+    "PMA":4424,
+    "PARKSBND_AREA":24453.07226,
+    "Shape_Length":299.608173,
+    "Shape_Area":5004.844098
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.291786,47.60050228 ]
+    },
+    "properties": {
+    "OBJECTID":162,
+    "PMA":392,
+    "PARKSBND_AREA":734226.483,
+    "Shape_Length":2800.897903,
+    "Shape_Area":149942.3619
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3148779,47.65184342 ]
+    },
+    "properties": {
+    "OBJECTID":163,
+    "PMA":4490,
+    "PARKSBND_AREA":156853.3453,
+    "Shape_Length":912.6124278,
+    "Shape_Area":32095.61026
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3148058,47.68083993 ]
+    },
+    "properties": {
+    "OBJECTID":164,
+    "PMA":287,
+    "PARKSBND_AREA":115518.3466,
+    "Shape_Length":1030.358162,
+    "Shape_Area":23709.57825
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3000662,47.60790622 ]
+    },
+    "properties": {
+    "OBJECTID":165,
+    "PMA":353,
+    "PARKSBND_AREA":366547.4067,
+    "Shape_Length":1246.843717,
+    "Shape_Area":74891.09814
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3029459,47.60609347 ]
+    },
+    "properties": {
+    "OBJECTID":166,
+    "PMA":3115,
+    "PARKSBND_AREA":5901.832226,
+    "Shape_Length":140.9468855,
+    "Shape_Area":1204.888975
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3020257,47.60618874 ]
+    },
+    "properties": {
+    "OBJECTID":167,
+    "PMA":4625,
+    "PARKSBND_AREA":9329.272445,
+    "Shape_Length":235.605222,
+    "Shape_Area":1910.772538
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3378687,47.64661331 ]
+    },
+    "properties": {
+    "OBJECTID":168,
+    "PMA":293,
+    "PARKSBND_AREA":930101.6224,
+    "Shape_Length":2043.537693,
+    "Shape_Area":190136.4086
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3734097,47.67226694 ]
+    },
+    "properties": {
+    "OBJECTID":169,
+    "PMA":4619,
+    "PARKSBND_AREA":20645.01489,
+    "Shape_Length":455.6902995,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2763971,47.56671314 ]
+    },
+    "properties": {
+    "OBJECTID":170,
+    "PMA":409,
+    "PARKSBND_AREA":2512343.76,
+    "Shape_Length":5837.795488,
+    "Shape_Area":512295.6031
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3215103,47.55246071 ]
+    },
+    "properties": {
+    "OBJECTID":171,
+    "PMA":410,
+    "PARKSBND_AREA":230145.849,
+    "Shape_Length":916.0400275,
+    "Shape_Area":46909.59462
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3227996,47.53528077 ]
+    },
+    "properties": {
+    "OBJECTID":172,
+    "PMA":635,
+    "PARKSBND_AREA":11717.36077,
+    "Shape_Length":209.2659254,
+    "Shape_Area":2386.879332
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2965611,47.60789986 ]
+    },
+    "properties": {
+    "OBJECTID":173,
+    "PMA":3759,
+    "PARKSBND_AREA":7126.962854,
+    "Shape_Length":205.2499945,
+    "Shape_Area":1447.684958
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.370627,47.66779488 ]
+    },
+    "properties": {
+    "OBJECTID":174,
+    "PMA":242,
+    "PARKSBND_AREA":170325.7866,
+    "Shape_Length":752.2261538,
+    "Shape_Area":34883.07619
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4017291,47.69787186 ]
+    },
+    "properties": {
+    "OBJECTID":175,
+    "PMA":243,
+    "PARKSBND_AREA":4324217.274,
+    "Shape_Length":10580.7307,
+    "Shape_Area":886341.5942
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3172306,47.6368279 ]
+    },
+    "properties": {
+    "OBJECTID":176,
+    "PMA":354,
+    "PARKSBND_AREA":124491.4548,
+    "Shape_Length":664.8922869,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3378213,47.68487974 ]
+    },
+    "properties": {
+    "OBJECTID":177,
+    "PMA":307,
+    "PARKSBND_AREA":11150307.1,
+    "Shape_Length":7250.831377,
+    "Shape_Area":2283831.062
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3410621,47.67920881 ]
+    },
+    "properties": {
+    "OBJECTID":178,
+    "PMA":307,
+    "PARKSBND_AREA":3765452.65,
+    "Shape_Length":14970.75858,
+    "Shape_Area":771079.0774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.350054,47.69346162 ]
+    },
+    "properties": {
+    "OBJECTID":179,
+    "PMA":4408,
+    "PARKSBND_AREA":119167.7721,
+    "Shape_Length":640.3319378,
+    "Shape_Area":24413.99037
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.360962,47.66912723 ]
+    },
+    "properties": {
+    "OBJECTID":180,
+    "PMA":245,
+    "PARKSBND_AREA":4502.904602,
+    "Shape_Length":159.7931299,
+    "Shape_Area":932.7830284
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.365699,47.55392892 ]
+    },
+    "properties": {
+    "OBJECTID":181,
+    "PMA":4157,
+    "PARKSBND_AREA":61105.81657,
+    "Shape_Length":499.6708191,
+    "Shape_Area":12456.4988
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3355451,47.71965258 ]
+    },
+    "properties": {
+    "OBJECTID":182,
+    "PMA":4464,
+    "PARKSBND_AREA":15470.69354,
+    "Shape_Length":287.6477391,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3845926,47.59281593 ]
+    },
+    "properties": {
+    "OBJECTID":183,
+    "PMA":454,
+    "PARKSBND_AREA":734721.888,
+    "Shape_Length":3775.714527,
+    "Shape_Area":149897.0474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.336737,47.64555415 ]
+    },
+    "properties": {
+    "OBJECTID":184,
+    "PMA":478,
+    "PARKSBND_AREA":77296.44311,
+    "Shape_Length":552.1179202,
+    "Shape_Area":15812.22236
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2903066,47.61928363 ]
+    },
+    "properties": {
+    "OBJECTID":185,
+    "PMA":356,
+    "PARKSBND_AREA":171022.05,
+    "Shape_Length":1877.854952,
+    "Shape_Area":34928.18865
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3215088,47.64123826 ]
+    },
+    "properties": {
+    "OBJECTID":186,
+    "PMA":3695,
+    "PARKSBND_AREA":6401.862845,
+    "Shape_Length":161.8431971,
+    "Shape_Area":1298.321582
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.335555,47.7267708 ]
+    },
+    "properties": {
+    "OBJECTID":187,
+    "PMA":285,
+    "PARKSBND_AREA":183349.7503,
+    "Shape_Length":822.7919528,
+    "Shape_Area":37621.67933
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3490257,47.56284322 ]
+    },
+    "properties": {
+    "OBJECTID":188,
+    "PMA":4412,
+    "PARKSBND_AREA":663954.9271,
+    "Shape_Length":2270.551827,
+    "Shape_Area":135565.8599
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3834901,47.57748805 ]
+    },
+    "properties": {
+    "OBJECTID":189,
+    "PMA":456,
+    "PARKSBND_AREA":526307.5505,
+    "Shape_Length":1311.814103,
+    "Shape_Area":107327.9767
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3527595,47.62983105 ]
+    },
+    "properties": {
+    "OBJECTID":190,
+    "PMA":3983,
+    "PARKSBND_AREA":3331.306692,
+    "Shape_Length":261.254479,
+    "Shape_Area":681.0126442
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3499477,47.52824086 ]
+    },
+    "properties": {
+    "OBJECTID":191,
+    "PMA":457,
+    "PARKSBND_AREA":276582.9347,
+    "Shape_Length":975.3400375,
+    "Shape_Area":56329.25426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2746486,47.55257552 ]
+    },
+    "properties": {
+    "OBJECTID":192,
+    "PMA":4102,
+    "PARKSBND_AREA":9253.880689,
+    "Shape_Length":174.1297272,
+    "Shape_Area":1886.287827
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3251908,47.59877152 ]
+    },
+    "properties": {
+    "OBJECTID":193,
+    "PMA":358,
+    "PARKSBND_AREA":14403.10801,
+    "Shape_Length":216.9275038,
+    "Shape_Area":2941.090502
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3262286,47.59874842 ]
+    },
+    "properties": {
+    "OBJECTID":194,
+    "PMA":358,
+    "PARKSBND_AREA":13322.59072,
+    "Shape_Length":208.7788312,
+    "Shape_Area":2720.458206
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2836085,47.55438191 ]
+    },
+    "properties": {
+    "OBJECTID":195,
+    "PMA":4413,
+    "PARKSBND_AREA":137071.563,
+    "Shape_Length":942.119574,
+    "Shape_Area":27944.66962
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3007508,47.61722547 ]
+    },
+    "properties": {
+    "OBJECTID":196,
+    "PMA":4426,
+    "PARKSBND_AREA":21621.38294,
+    "Shape_Length":271.4816561,
+    "Shape_Area":4418.209093
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.298446,47.71512448 ]
+    },
+    "properties": {
+    "OBJECTID":197,
+    "PMA":4417,
+    "PARKSBND_AREA":42029.49097,
+    "Shape_Length":755.3750982,
+    "Shape_Area":8620.793046
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3192742,47.60334599 ]
+    },
+    "properties": {
+    "OBJECTID":198,
+    "PMA":43,
+    "PARKSBND_AREA":12503.34073,
+    "Shape_Length":256.9619463,
+    "Shape_Area":2553.52886
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2876354,47.57383965 ]
+    },
+    "properties": {
+    "OBJECTID":199,
+    "PMA":3927,
+    "PARKSBND_AREA":12973.69419,
+    "Shape_Length":249.31148,
+    "Shape_Area":2646.687868
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2795655,47.61765326 ]
+    },
+    "properties": {
+    "OBJECTID":200,
+    "PMA":359,
+    "PARKSBND_AREA":37586.93672,
+    "Shape_Length":426.6695556,
+    "Shape_Area":7693.685124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3234502,47.71040814 ]
+    },
+    "properties": {
+    "OBJECTID":201,
+    "PMA":4456,
+    "PARKSBND_AREA":162797.8624,
+    "Shape_Length":787.4470333,
+    "Shape_Area":33385.58575
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2849032,47.5724346 ]
+    },
+    "properties": {
+    "OBJECTID":202,
+    "PMA":4032,
+    "PARKSBND_AREA":55954.7602,
+    "Shape_Length":1404.743045,
+    "Shape_Area":11302.21102
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2828501,47.63235468 ]
+    },
+    "properties": {
+    "OBJECTID":203,
+    "PMA":3905,
+    "PARKSBND_AREA":385.128361,
+    "Shape_Length":42.96154144,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3225142,47.63556462 ]
+    },
+    "properties": {
+    "OBJECTID":204,
+    "PMA":4446,
+    "PARKSBND_AREA":372516.2411,
+    "Shape_Length":1394.74462,
+    "Shape_Area":76158.15017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3088373,47.58961798 ]
+    },
+    "properties": {
+    "OBJECTID":205,
+    "PMA":4432,
+    "PARKSBND_AREA":112825.3853,
+    "Shape_Length":1257.02829,
+    "Shape_Area":23028.15598
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3230787,47.59595556 ]
+    },
+    "properties": {
+    "OBJECTID":206,
+    "PMA":4437,
+    "PARKSBND_AREA":8637.110501,
+    "Shape_Length":173.4414866,
+    "Shape_Area":1763.517945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3776241,47.64659391 ]
+    },
+    "properties": {
+    "OBJECTID":207,
+    "PMA":3887,
+    "PARKSBND_AREA":322118.6568,
+    "Shape_Length":1190.711216,
+    "Shape_Area":65944.44782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3764344,47.64485985 ]
+    },
+    "properties": {
+    "OBJECTID":208,
+    "PMA":313,
+    "PARKSBND_AREA":1757332.022,
+    "Shape_Length":2959.61261,
+    "Shape_Area":359425.0671
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3764165,47.64163257 ]
+    },
+    "properties": {
+    "OBJECTID":209,
+    "PMA":4086,
+    "PARKSBND_AREA":83102.74238,
+    "Shape_Length":516.080569,
+    "Shape_Area":16997.69715
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3046047,47.63627822 ]
+    },
+    "properties": {
+    "OBJECTID":210,
+    "PMA":3023,
+    "PARKSBND_AREA":2282241.619,
+    "Shape_Length":8744.10793,
+    "Shape_Area":466466.1259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2808861,47.69197387 ]
+    },
+    "properties": {
+    "OBJECTID":211,
+    "PMA":4001,
+    "PARKSBND_AREA":117976.4686,
+    "Shape_Length":1040.941901,
+    "Shape_Area":24175.85498
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3127762,47.7271421 ]
+    },
+    "properties": {
+    "OBJECTID":212,
+    "PMA":327,
+    "PARKSBND_AREA":6635258.256,
+    "Shape_Length":5333.060693,
+    "Shape_Area":1361633.859
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3088302,47.57159184 ]
+    },
+    "properties": {
+    "OBJECTID":213,
+    "PMA":114,
+    "PARKSBND_AREA":1970606.458,
+    "Shape_Length":3366.163343,
+    "Shape_Area":401922.3278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3036878,47.56143829 ]
+    },
+    "properties": {
+    "OBJECTID":214,
+    "PMA":4153,
+    "PARKSBND_AREA":5257203.118,
+    "Shape_Length":6980.843383,
+    "Shape_Area":1072124.486
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3301437,47.61128069 ]
+    },
+    "properties": {
+    "OBJECTID":215,
+    "PMA":312,
+    "PARKSBND_AREA":225457.7245,
+    "Shape_Length":2492.278847,
+    "Shape_Area":46061.77279
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3011651,47.58939749 ]
+    },
+    "properties": {
+    "OBJECTID":216,
+    "PMA":3121,
+    "PARKSBND_AREA":100665.0478,
+    "Shape_Length":577.3535304,
+    "Shape_Area":20546.43367
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2879365,47.54049508 ]
+    },
+    "properties": {
+    "OBJECTID":217,
+    "PMA":429,
+    "PARKSBND_AREA":250912.3052,
+    "Shape_Length":1444.864881,
+    "Shape_Area":51123.04342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.30863,47.59231902 ]
+    },
+    "properties": {
+    "OBJECTID":218,
+    "PMA":4244,
+    "PARKSBND_AREA":228350.5032,
+    "Shape_Length":1292.150617,
+    "Shape_Area":46600.91356
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3027515,47.59598275 ]
+    },
+    "properties": {
+    "OBJECTID":219,
+    "PMA":397,
+    "PARKSBND_AREA":805950.9346,
+    "Shape_Length":3075.44007,
+    "Shape_Area":164593.5695
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.296269,47.62212173 ]
+    },
+    "properties": {
+    "OBJECTID":220,
+    "PMA":4627,
+    "PARKSBND_AREA":10880.33242,
+    "Shape_Length":191.4069431,
+    "Shape_Area":2223.793653
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3856188,47.56134708 ]
+    },
+    "properties": {
+    "OBJECTID":221,
+    "PMA":4455,
+    "PARKSBND_AREA":6810.456801,
+    "Shape_Length":162.0835286,
+    "Shape_Area":1388.70013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3174141,47.59076382 ]
+    },
+    "properties": {
+    "OBJECTID":222,
+    "PMA":3122,
+    "PARKSBND_AREA":28462.98774,
+    "Shape_Length":329.0131251,
+    "Shape_Area":5810.699306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.359855,47.6286433 ]
+    },
+    "properties": {
+    "OBJECTID":223,
+    "PMA":342,
+    "PARKSBND_AREA":13622.46703,
+    "Shape_Length":248.9586298,
+    "Shape_Area":2786.256334
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3603976,47.62949487 ]
+    },
+    "properties": {
+    "OBJECTID":224,
+    "PMA":342,
+    "PARKSBND_AREA":55047.77423,
+    "Shape_Length":457.7345108,
+    "Shape_Area":11251.44733
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3340345,47.67043948 ]
+    },
+    "properties": {
+    "OBJECTID":225,
+    "PMA":3880,
+    "PARKSBND_AREA":9778.895875,
+    "Shape_Length":278.9695747,
+    "Shape_Area":2001.429992
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3880664,47.52139914 ]
+    },
+    "properties": {
+    "OBJECTID":226,
+    "PMA":459,
+    "PARKSBND_AREA":28958.80524,
+    "Shape_Length":572.3451057,
+    "Shape_Area":5891.258999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3080303,47.70257701 ]
+    },
+    "properties": {
+    "OBJECTID":227,
+    "PMA":4480,
+    "PARKSBND_AREA":624044.8528,
+    "Shape_Length":5654.074968,
+    "Shape_Area":127935.6002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3704339,47.62868169 ]
+    },
+    "properties": {
+    "OBJECTID":228,
+    "PMA":314,
+    "PARKSBND_AREA":614668.4608,
+    "Shape_Length":1886.002007,
+    "Shape_Area":125679.6074
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3573338,47.62623671 ]
+    },
+    "properties": {
+    "OBJECTID":229,
+    "PMA":315,
+    "PARKSBND_AREA":4014.304504,
+    "Shape_Length":174.742905,
+    "Shape_Area":822.1762286
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3678023,47.6810171 ]
+    },
+    "properties": {
+    "OBJECTID":230,
+    "PMA":4468,
+    "PARKSBND_AREA":39072.42271,
+    "Shape_Length":444.6140618,
+    "Shape_Area":8003.651504
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3995428,47.66322346 ]
+    },
+    "properties": {
+    "OBJECTID":231,
+    "PMA":246,
+    "PARKSBND_AREA":704806.2589,
+    "Shape_Length":4134.80132,
+    "Shape_Area":144372.7483
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4030618,47.66042926 ]
+    },
+    "properties": {
+    "OBJECTID":232,
+    "PMA":4429,
+    "PARKSBND_AREA":13176.73645,
+    "Shape_Length":208.0254259,
+    "Shape_Area":2705.277446
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2673726,47.5144722 ]
+    },
+    "properties": {
+    "OBJECTID":233,
+    "PMA":415,
+    "PARKSBND_AREA":843571.0467,
+    "Shape_Length":2039.099064,
+    "Shape_Area":171624.1609
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2691528,47.51146284 ]
+    },
+    "properties": {
+    "OBJECTID":234,
+    "PMA":262,
+    "PARKSBND_AREA":931486.1833,
+    "Shape_Length":3890.329395,
+    "Shape_Area":189662.2457
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2953043,47.71878864 ]
+    },
+    "properties": {
+    "OBJECTID":235,
+    "PMA":333,
+    "PARKSBND_AREA":233.711195,
+    "Shape_Length":39.2259247,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2961959,47.71917458 ]
+    },
+    "properties": {
+    "OBJECTID":236,
+    "PMA":487,
+    "PARKSBND_AREA":7398.287668,
+    "Shape_Length":184.1306672,
+    "Shape_Area":1515.750383
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2923225,47.72003169 ]
+    },
+    "properties": {
+    "OBJECTID":237,
+    "PMA":4476,
+    "PARKSBND_AREA":10017.72315,
+    "Shape_Length":193.1053083,
+    "Shape_Area":2055.147477
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2916383,47.56924285 ]
+    },
+    "properties": {
+    "OBJECTID":238,
+    "PMA":4439,
+    "PARKSBND_AREA":22929.0872,
+    "Shape_Length":275.238326,
+    "Shape_Area":4672.63359
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3361464,47.6266916 ]
+    },
+    "properties": {
+    "OBJECTID":239,
+    "PMA":344,
+    "PARKSBND_AREA":474955.8631,
+    "Shape_Length":2093.481621,
+    "Shape_Area":97115.60229
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2969691,47.63047889 ]
+    },
+    "properties": {
+    "OBJECTID":240,
+    "PMA":393,
+    "PARKSBND_AREA":87.370004,
+    "Shape_Length":20.87273647,
+    "Shape_Area":17.88575525
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2841832,47.58165182 ]
+    },
+    "properties": {
+    "OBJECTID":241,
+    "PMA":412,
+    "PARKSBND_AREA":4134442.541,
+    "Shape_Length":34454.54935,
+    "Shape_Area":844421.3034
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2648733,47.56545958 ]
+    },
+    "properties": {
+    "OBJECTID":242,
+    "PMA":413,
+    "PARKSBND_AREA":3609992.342,
+    "Shape_Length":8869.510071,
+    "Shape_Area":736465.9985
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2481212,47.50855292 ]
+    },
+    "properties": {
+    "OBJECTID":243,
+    "PMA":411,
+    "PARKSBND_AREA":1548465.087,
+    "Shape_Length":5413.933165,
+    "Shape_Area":315080.9175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2477301,47.51105757 ]
+    },
+    "properties": {
+    "OBJECTID":244,
+    "PMA":3972,
+    "PARKSBND_AREA":187403.2942,
+    "Shape_Length":793.0632442,
+    "Shape_Area":38116.67725
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2843693,47.62130577 ]
+    },
+    "properties": {
+    "OBJECTID":245,
+    "PMA":365,
+    "PARKSBND_AREA":195992.3924,
+    "Shape_Length":1362.175037,
+    "Shape_Area":39954.64726
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3256516,47.62938588 ]
+    },
+    "properties": {
+    "OBJECTID":246,
+    "PMA":366,
+    "PARKSBND_AREA":180.091679,
+    "Shape_Length":29.24342236,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2647007,47.56402043 ]
+    },
+    "properties": {
+    "OBJECTID":247,
+    "PMA":4040,
+    "PARKSBND_AREA":541629.511,
+    "Shape_Length":1351.069055,
+    "Shape_Area":110420.246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2664513,47.56390238 ]
+    },
+    "properties": {
+    "OBJECTID":248,
+    "PMA":4041,
+    "PARKSBND_AREA":35627.87839,
+    "Shape_Length":330.2301039,
+    "Shape_Area":7254.980246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.269573,47.55850076 ]
+    },
+    "properties": {
+    "OBJECTID":249,
+    "PMA":414,
+    "PARKSBND_AREA":85897.68797,
+    "Shape_Length":540.115112,
+    "Shape_Area":17510.4098
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2838072,47.57621554 ]
+    },
+    "properties": {
+    "OBJECTID":250,
+    "PMA":4024,
+    "PARKSBND_AREA":5370.534325,
+    "Shape_Length":141.5173783,
+    "Shape_Area":1109.164363
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.283908,47.63206735 ]
+    },
+    "properties": {
+    "OBJECTID":251,
+    "PMA":3906,
+    "PARKSBND_AREA":1392.816058,
+    "Shape_Length":81.547272,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2812325,47.57349332 ]
+    },
+    "properties": {
+    "OBJECTID":252,
+    "PMA":3929,
+    "PARKSBND_AREA":15711.96874,
+    "Shape_Length":483.3406254,
+    "Shape_Area":3268.560296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3101303,47.60193674 ]
+    },
+    "properties": {
+    "OBJECTID":253,
+    "PMA":256,
+    "PARKSBND_AREA":7752.438794,
+    "Shape_Length":170.3592751,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3090951,47.60123306 ]
+    },
+    "properties": {
+    "OBJECTID":254,
+    "PMA":256,
+    "PARKSBND_AREA":44851.88372,
+    "Shape_Length":448.7389668,
+    "Shape_Area":9161.296063
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2768164,47.66120587 ]
+    },
+    "properties": {
+    "OBJECTID":255,
+    "PMA":340,
+    "PARKSBND_AREA":576465.1552,
+    "Shape_Length":1430.820647,
+    "Shape_Area":118014.9954
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2777186,47.6624019 ]
+    },
+    "properties": {
+    "OBJECTID":256,
+    "PMA":4442,
+    "PARKSBND_AREA":5619.09866,
+    "Shape_Length":175.0578051,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2775351,47.65273598 ]
+    },
+    "properties": {
+    "OBJECTID":257,
+    "PMA":4162,
+    "PARKSBND_AREA":913.201189,
+    "Shape_Length":49.68785222,
+    "Shape_Area":181.2626924
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2990523,47.70295723 ]
+    },
+    "properties": {
+    "OBJECTID":258,
+    "PMA":4482,
+    "PARKSBND_AREA":190641.6833,
+    "Shape_Length":982.2189124,
+    "Shape_Area":39083.60462
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3905233,47.65579667 ]
+    },
+    "properties": {
+    "OBJECTID":259,
+    "PMA":316,
+    "PARKSBND_AREA":414330.889,
+    "Shape_Length":2182.475617,
+    "Shape_Area":84793.36606
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2872205,47.60537362 ]
+    },
+    "properties": {
+    "OBJECTID":260,
+    "PMA":263,
+    "PARKSBND_AREA":154980.1683,
+    "Shape_Length":2014.926975,
+    "Shape_Area":31651.41868
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2863315,47.60174084 ]
+    },
+    "properties": {
+    "OBJECTID":261,
+    "PMA":367,
+    "PARKSBND_AREA":560431.7865,
+    "Shape_Length":2344.560413,
+    "Shape_Area":114494.9433
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2838148,47.60127421 ]
+    },
+    "properties": {
+    "OBJECTID":262,
+    "PMA":367,
+    "PARKSBND_AREA":195185.7277,
+    "Shape_Length":883.7498104,
+    "Shape_Area":39835.55474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3140888,47.59299779 ]
+    },
+    "properties": {
+    "OBJECTID":263,
+    "PMA":4076,
+    "PARKSBND_AREA":163725.1672,
+    "Shape_Length":1537.788977,
+    "Shape_Area":33450.72572
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3159287,47.72509137 ]
+    },
+    "properties": {
+    "OBJECTID":264,
+    "PMA":4479,
+    "PARKSBND_AREA":341025.3917,
+    "Shape_Length":1864.961028,
+    "Shape_Area":69986.22335
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3377477,47.69793364 ]
+    },
+    "properties": {
+    "OBJECTID":265,
+    "PMA":286,
+    "PARKSBND_AREA":328830.9026,
+    "Shape_Length":1096.984936,
+    "Shape_Area":67362.79585
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3927648,47.53588969 ]
+    },
+    "properties": {
+    "OBJECTID":266,
+    "PMA":460,
+    "PARKSBND_AREA":5541025.621,
+    "Shape_Length":4962.036491,
+    "Shape_Area":1128619.855
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3474058,47.67810528 ]
+    },
+    "properties": {
+    "OBJECTID":267,
+    "PMA":4419,
+    "PARKSBND_AREA":14396.95878,
+    "Shape_Length":243.6617263,
+    "Shape_Area":2948.786966
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2893733,47.71383877 ]
+    },
+    "properties": {
+    "OBJECTID":268,
+    "PMA":4617,
+    "PARKSBND_AREA":104304.1144,
+    "Shape_Length":700.230938,
+    "Shape_Area":21327.60409
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2951906,47.73156022 ]
+    },
+    "properties": {
+    "OBJECTID":269,
+    "PMA":297,
+    "PARKSBND_AREA":38607.20957,
+    "Shape_Length":392.7701841,
+    "Shape_Area":7914.150381
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3610518,47.73414082 ]
+    },
+    "properties": {
+    "OBJECTID":270,
+    "PMA":301,
+    "PARKSBND_AREA":395874.4178,
+    "Shape_Length":2084.169715,
+    "Shape_Area":81256.93683
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3662656,47.56653312 ]
+    },
+    "properties": {
+    "OBJECTID":271,
+    "PMA":264,
+    "PARKSBND_AREA":256357.7069,
+    "Shape_Length":2104.138328,
+    "Shape_Area":52278.33774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3644978,47.54465334 ]
+    },
+    "properties": {
+    "OBJECTID":272,
+    "PMA":265,
+    "PARKSBND_AREA":2059361.8,
+    "Shape_Length":12636.3857,
+    "Shape_Area":419665.3942
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3638837,47.52869055 ]
+    },
+    "properties": {
+    "OBJECTID":273,
+    "PMA":267,
+    "PARKSBND_AREA":152254.8478,
+    "Shape_Length":1498.675479,
+    "Shape_Area":31006.02035
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3684457,47.5509703 ]
+    },
+    "properties": {
+    "OBJECTID":274,
+    "PMA":265,
+    "PARKSBND_AREA":40275.72353,
+    "Shape_Length":420.3978876,
+    "Shape_Area":8209.419413
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3984254,47.64276789 ]
+    },
+    "properties": {
+    "OBJECTID":275,
+    "PMA":4473,
+    "PARKSBND_AREA":56400.67183,
+    "Shape_Length":523.2861883,
+    "Shape_Area":11534.25414
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3979166,47.53976947 ]
+    },
+    "properties": {
+    "OBJECTID":276,
+    "PMA":461,
+    "PARKSBND_AREA":178200.9229,
+    "Shape_Length":823.3080187,
+    "Shape_Area":36307.16311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.384219,47.68492988 ]
+    },
+    "properties": {
+    "OBJECTID":277,
+    "PMA":289,
+    "PARKSBND_AREA":291077.5304,
+    "Shape_Length":983.8341925,
+    "Shape_Area":59634.52664
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3295448,47.63985039 ]
+    },
+    "properties": {
+    "OBJECTID":278,
+    "PMA":4075,
+    "PARKSBND_AREA":4697.754119,
+    "Shape_Length":163.2808472,
+    "Shape_Area":959.5418689
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3448526,47.6360571 ]
+    },
+    "properties": {
+    "OBJECTID":279,
+    "PMA":4422,
+    "PARKSBND_AREA":44429.53492,
+    "Shape_Length":436.0021452,
+    "Shape_Area":9085.281168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2754796,47.6368448 ]
+    },
+    "properties": {
+    "OBJECTID":280,
+    "PMA":369,
+    "PARKSBND_AREA":360582.1602,
+    "Shape_Length":1384.768634,
+    "Shape_Area":73721.28657
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2753499,47.63853904 ]
+    },
+    "properties": {
+    "OBJECTID":281,
+    "PMA":4441,
+    "PARKSBND_AREA":195521.5849,
+    "Shape_Length":804.5881835,
+    "Shape_Area":39997.83486
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2841215,47.61533057 ]
+    },
+    "properties": {
+    "OBJECTID":282,
+    "PMA":4005,
+    "PARKSBND_AREA":7488.717735,
+    "Shape_Length":171.9849011,
+    "Shape_Area":1532.113883
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2812764,47.61159183 ]
+    },
+    "properties": {
+    "OBJECTID":283,
+    "PMA":370,
+    "PARKSBND_AREA":1256046.41,
+    "Shape_Length":4960.021579,
+    "Shape_Area":256560.1714
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2894844,47.61090039 ]
+    },
+    "properties": {
+    "OBJECTID":284,
+    "PMA":371,
+    "PARKSBND_AREA":77035.30388,
+    "Shape_Length":529.1099451,
+    "Shape_Area":15734.60279
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.285392,47.61152416 ]
+    },
+    "properties": {
+    "OBJECTID":285,
+    "PMA":2856,
+    "PARKSBND_AREA":25230.6882,
+    "Shape_Length":430.5207634,
+    "Shape_Area":5166.906214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3958413,47.63290929 ]
+    },
+    "properties": {
+    "OBJECTID":286,
+    "PMA":317,
+    "PARKSBND_AREA":965.315487,
+    "Shape_Length":71.96468888,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4145117,47.64404937 ]
+    },
+    "properties": {
+    "OBJECTID":287,
+    "PMA":2843,
+    "PARKSBND_AREA":2337559.511,
+    "Shape_Length":13944.22336,
+    "Shape_Area":478286.0888
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3887634,47.63379871 ]
+    },
+    "properties": {
+    "OBJECTID":288,
+    "PMA":492,
+    "PARKSBND_AREA":139309.7748,
+    "Shape_Length":1578.861243,
+    "Shape_Area":28504.3828
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3908696,47.65190038 ]
+    },
+    "properties": {
+    "OBJECTID":289,
+    "PMA":747,
+    "PARKSBND_AREA":268497.2224,
+    "Shape_Length":1023.464774,
+    "Shape_Area":54927.10167
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3958343,47.63218835 ]
+    },
+    "properties": {
+    "OBJECTID":290,
+    "PMA":317,
+    "PARKSBND_AREA":510531.4875,
+    "Shape_Length":4142.442818,
+    "Shape_Area":104420.3727
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4200237,47.64298797 ]
+    },
+    "properties": {
+    "OBJECTID":291,
+    "PMA":3041,
+    "PARKSBND_AREA":7672071.247,
+    "Shape_Length":37674.17463,
+    "Shape_Area":1569208.28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3217967,47.70307639 ]
+    },
+    "properties": {
+    "OBJECTID":292,
+    "PMA":4434,
+    "PARKSBND_AREA":15985.39972,
+    "Shape_Length":230.6575334,
+    "Shape_Area":3277.282882
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3134707,47.69113715 ]
+    },
+    "properties": {
+    "OBJECTID":293,
+    "PMA":3881,
+    "PARKSBND_AREA":1084249.06,
+    "Shape_Length":1911.87099,
+    "Shape_Area":222247.7836
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3080242,47.55333828 ]
+    },
+    "properties": {
+    "OBJECTID":294,
+    "PMA":1630,
+    "PARKSBND_AREA":330999.149,
+    "Shape_Length":3449.189047,
+    "Shape_Area":67432.06675
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2853645,47.69444034 ]
+    },
+    "properties": {
+    "OBJECTID":295,
+    "PMA":4615,
+    "PARKSBND_AREA":46644.09327,
+    "Shape_Length":727.9470757,
+    "Shape_Area":9560.474363
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3170142,47.56162566 ]
+    },
+    "properties": {
+    "OBJECTID":296,
+    "PMA":418,
+    "PARKSBND_AREA":691349.8607,
+    "Shape_Length":1682.928243,
+    "Shape_Area":140969.925
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3258868,47.52222463 ]
+    },
+    "properties": {
+    "OBJECTID":297,
+    "PMA":4447,
+    "PARKSBND_AREA":377896.5806,
+    "Shape_Length":1234.83786,
+    "Shape_Area":76934.28412
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3669423,47.62980379 ]
+    },
+    "properties": {
+    "OBJECTID":298,
+    "PMA":320,
+    "PARKSBND_AREA":34088.68082,
+    "Shape_Length":357.5262484,
+    "Shape_Area":6979.021965
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2584217,47.54247022 ]
+    },
+    "properties": {
+    "OBJECTID":299,
+    "PMA":432,
+    "PARKSBND_AREA":417194.4939,
+    "Shape_Length":1186.337678,
+    "Shape_Area":84943.42043
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2965727,47.58146634 ]
+    },
+    "properties": {
+    "OBJECTID":300,
+    "PMA":3923,
+    "PARKSBND_AREA":191294.9011,
+    "Shape_Length":1130.724254,
+    "Shape_Area":39065.49354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3848806,47.66815882 ]
+    },
+    "properties": {
+    "OBJECTID":301,
+    "PMA":298,
+    "PARKSBND_AREA":4482.454109,
+    "Shape_Length":146.2360882,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2714081,47.69731035 ]
+    },
+    "properties": {
+    "OBJECTID":302,
+    "PMA":347,
+    "PARKSBND_AREA":956042.1041,
+    "Shape_Length":3102.664538,
+    "Shape_Area":195966.3543
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3537195,47.64355063 ]
+    },
+    "properties": {
+    "OBJECTID":303,
+    "PMA":321,
+    "PARKSBND_AREA":43086.30542,
+    "Shape_Length":402.5005153,
+    "Shape_Area":8812.329632
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2814095,47.62827958 ]
+    },
+    "properties": {
+    "OBJECTID":304,
+    "PMA":4013,
+    "PARKSBND_AREA":22333.95192,
+    "Shape_Length":1115.92012,
+    "Shape_Area":4482.934897
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3129063,47.61433625 ]
+    },
+    "properties": {
+    "OBJECTID":305,
+    "PMA":4008,
+    "PARKSBND_AREA":2652.021071,
+    "Shape_Length":116.5589255,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3376541,47.61299072 ]
+    },
+    "properties": {
+    "OBJECTID":306,
+    "PMA":339,
+    "PARKSBND_AREA":644.817639,
+    "Shape_Length":55.91680926,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4002449,47.56090601 ]
+    },
+    "properties": {
+    "OBJECTID":307,
+    "PMA":268,
+    "PARKSBND_AREA":295525.3594,
+    "Shape_Length":2709.955804,
+    "Shape_Area":60266.22767
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406665,47.56430121 ]
+    },
+    "properties": {
+    "OBJECTID":308,
+    "PMA":473,
+    "PARKSBND_AREA":751919.2522,
+    "Shape_Length":2314.659659,
+    "Shape_Area":153342.2749
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2909291,47.706854 ]
+    },
+    "properties": {
+    "OBJECTID":309,
+    "PMA":352,
+    "PARKSBND_AREA":851211.7694,
+    "Shape_Length":1822.640011,
+    "Shape_Area":174521.8668
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2937274,47.70698147 ]
+    },
+    "properties": {
+    "OBJECTID":310,
+    "PMA":352,
+    "PARKSBND_AREA":7637.798913,
+    "Shape_Length":170.058102,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3335919,47.66321064 ]
+    },
+    "properties": {
+    "OBJECTID":311,
+    "PMA":1104,
+    "PARKSBND_AREA":293196.8369,
+    "Shape_Length":1325.978986,
+    "Shape_Area":60017.43261
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3060071,47.62039252 ]
+    },
+    "properties": {
+    "OBJECTID":312,
+    "PMA":4015,
+    "PARKSBND_AREA":8179.605774,
+    "Shape_Length":231.8585813,
+    "Shape_Area":1647.759166
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3358368,47.705949 ]
+    },
+    "properties": {
+    "OBJECTID":313,
+    "PMA":291,
+    "PARKSBND_AREA":173101.5362,
+    "Shape_Length":980.7839212,
+    "Shape_Area":35542.32754
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2889135,47.6992751 ]
+    },
+    "properties": {
+    "OBJECTID":314,
+    "PMA":277,
+    "PARKSBND_AREA":44096.67378,
+    "Shape_Length":488.6264041,
+    "Shape_Area":9050.320976
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.304515,47.64475204 ]
+    },
+    "properties": {
+    "OBJECTID":315,
+    "PMA":4021,
+    "PARKSBND_AREA":11469.26706,
+    "Shape_Length":490.6139541,
+    "Shape_Area":2339.45575
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3063705,47.64304805 ]
+    },
+    "properties": {
+    "OBJECTID":316,
+    "PMA":376,
+    "PARKSBND_AREA":1135292.133,
+    "Shape_Length":3928.588675,
+    "Shape_Area":232248.886
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3873639,47.54607117 ]
+    },
+    "properties": {
+    "OBJECTID":317,
+    "PMA":4460,
+    "PARKSBND_AREA":28632.75163,
+    "Shape_Length":437.3003786,
+    "Shape_Area":5834.972352
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2883177,47.57723721 ]
+    },
+    "properties": {
+    "OBJECTID":318,
+    "PMA":4020,
+    "PARKSBND_AREA":319096.2147,
+    "Shape_Length":2421.335585,
+    "Shape_Area":65093.33354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2875974,47.58329796 ]
+    },
+    "properties": {
+    "OBJECTID":319,
+    "PMA":405,
+    "PARKSBND_AREA":158396.7265,
+    "Shape_Length":1289.235059,
+    "Shape_Area":32316.30737
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2874261,47.57843765 ]
+    },
+    "properties": {
+    "OBJECTID":320,
+    "PMA":419,
+    "PARKSBND_AREA":1078079.121,
+    "Shape_Length":6955.82046,
+    "Shape_Area":220119.5176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2861063,47.58145522 ]
+    },
+    "properties": {
+    "OBJECTID":321,
+    "PMA":4019,
+    "PARKSBND_AREA":50990.97406,
+    "Shape_Length":1098.196382,
+    "Shape_Area":10458.14033
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2927058,47.58982684 ]
+    },
+    "properties": {
+    "OBJECTID":322,
+    "PMA":4427,
+    "PARKSBND_AREA":5043.740823,
+    "Shape_Length":147.6334721,
+    "Shape_Area":1029.586631
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3621563,47.62010276 ]
+    },
+    "properties": {
+    "OBJECTID":323,
+    "PMA":311,
+    "PARKSBND_AREA":209609.4558,
+    "Shape_Length":1632.148066,
+    "Shape_Area":42866.32186
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.376722,47.5406859 ]
+    },
+    "properties": {
+    "OBJECTID":324,
+    "PMA":4463,
+    "PARKSBND_AREA":159366.9205,
+    "Shape_Length":1074.79429,
+    "Shape_Area":32482.52191
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3968542,47.57975918 ]
+    },
+    "properties": {
+    "OBJECTID":325,
+    "PMA":3916,
+    "PARKSBND_AREA":14125.48262,
+    "Shape_Length":219.1964539,
+    "Shape_Area":2882.142349
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3226554,47.67215972 ]
+    },
+    "properties": {
+    "OBJECTID":326,
+    "PMA":3975,
+    "PARKSBND_AREA":14467.91981,
+    "Shape_Length":381.3435452,
+    "Shape_Area":2960.610217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2948104,47.60891353 ]
+    },
+    "properties": {
+    "OBJECTID":327,
+    "PMA":4403,
+    "PARKSBND_AREA":15161.42945,
+    "Shape_Length":223.1742858,
+    "Shape_Area":3097.168163
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3902448,47.69559387 ]
+    },
+    "properties": {
+    "OBJECTID":328,
+    "PMA":247,
+    "PARKSBND_AREA":359057.6538,
+    "Shape_Length":2573.510704,
+    "Shape_Area":73584.25196
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.395062,47.69568404 ]
+    },
+    "properties": {
+    "OBJECTID":329,
+    "PMA":271,
+    "PARKSBND_AREA":59981.61892,
+    "Shape_Length":973.9353713,
+    "Shape_Area":12293.43648
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2833565,47.60518703 ]
+    },
+    "properties": {
+    "OBJECTID":330,
+    "PMA":367,
+    "PARKSBND_AREA":287977.0034,
+    "Shape_Length":1085.459709,
+    "Shape_Area":58844.12487
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3389769,47.6886403 ]
+    },
+    "properties": {
+    "OBJECTID":331,
+    "PMA":481,
+    "PARKSBND_AREA":97399.12497,
+    "Shape_Length":572.0384332,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.322071,47.65437711 ]
+    },
+    "properties": {
+    "OBJECTID":332,
+    "PMA":2956,
+    "PARKSBND_AREA":34722.13869,
+    "Shape_Length":376.8129883,
+    "Shape_Area":7108.887369
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3287978,47.72306846 ]
+    },
+    "properties": {
+    "OBJECTID":333,
+    "PMA":361,
+    "PARKSBND_AREA":900522.8472,
+    "Shape_Length":1891.414678,
+    "Shape_Area":184652.403
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3453201,47.63476452 ]
+    },
+    "properties": {
+    "OBJECTID":334,
+    "PMA":279,
+    "PARKSBND_AREA":432699.5911,
+    "Shape_Length":3408.173235,
+    "Shape_Area":88422.78739
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3230495,47.70640901 ]
+    },
+    "properties": {
+    "OBJECTID":335,
+    "PMA":4425,
+    "PARKSBND_AREA":102980.215,
+    "Shape_Length":584.3169911,
+    "Shape_Area":21127.89908
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3230212,47.70544014 ]
+    },
+    "properties": {
+    "OBJECTID":336,
+    "PMA":4445,
+    "PARKSBND_AREA":51498.58775,
+    "Shape_Length":423.6859022,
+    "Shape_Area":10558.6485
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.320654,47.65434187 ]
+    },
+    "properties": {
+    "OBJECTID":337,
+    "PMA":4452,
+    "PARKSBND_AREA":1659.700192,
+    "Shape_Length":96.03880814,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4064239,47.67238452 ]
+    },
+    "properties": {
+    "OBJECTID":338,
+    "PMA":4161,
+    "PARKSBND_AREA":5346.534796,
+    "Shape_Length":164.8564213,
+    "Shape_Area":1089.916213
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3547692,47.63165721 ]
+    },
+    "properties": {
+    "OBJECTID":339,
+    "PMA":322,
+    "PARKSBND_AREA":36209.7716,
+    "Shape_Length":370.8529036,
+    "Shape_Area":7405.725983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3333146,47.60013403 ]
+    },
+    "properties": {
+    "OBJECTID":340,
+    "PMA":323,
+    "PARKSBND_AREA":26627.30601,
+    "Shape_Length":317.2553003,
+    "Shape_Area":5435.418375
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3867915,47.63155739 ]
+    },
+    "properties": {
+    "OBJECTID":341,
+    "PMA":3005,
+    "PARKSBND_AREA":611502.866,
+    "Shape_Length":1723.571542,
+    "Shape_Area":125043.8354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3792146,47.53839556 ]
+    },
+    "properties": {
+    "OBJECTID":342,
+    "PMA":300,
+    "PARKSBND_AREA":68501.99734,
+    "Shape_Length":745.3320297,
+    "Shape_Area":13955.76248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2767998,47.53605901 ]
+    },
+    "properties": {
+    "OBJECTID":343,
+    "PMA":403,
+    "PARKSBND_AREA":329440.9566,
+    "Shape_Length":1096.90517,
+    "Shape_Area":67112.33763
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3220428,47.54524641 ]
+    },
+    "properties": {
+    "OBJECTID":344,
+    "PMA":4416,
+    "PARKSBND_AREA":35415.35711,
+    "Shape_Length":358.5250637,
+    "Shape_Area":7216.94037
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3055417,47.67008364 ]
+    },
+    "properties": {
+    "OBJECTID":345,
+    "PMA":4027,
+    "PARKSBND_AREA":2827.071548,
+    "Shape_Length":84.74697931,
+    "Shape_Area":564.147684
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4098094,47.64025669 ]
+    },
+    "properties": {
+    "OBJECTID":346,
+    "PMA":4009,
+    "PARKSBND_AREA":9187.767657,
+    "Shape_Length":361.0543143,
+    "Shape_Area":1855.393306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.366265,47.63003875 ]
+    },
+    "properties": {
+    "OBJECTID":347,
+    "PMA":324,
+    "PARKSBND_AREA":19250.91849,
+    "Shape_Length":252.3827263,
+    "Shape_Area":3936.21778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3936004,47.54156025 ]
+    },
+    "properties": {
+    "OBJECTID":348,
+    "PMA":237,
+    "PARKSBND_AREA":44779.01404,
+    "Shape_Length":571.5812353,
+    "Shape_Area":9123.828952
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3048699,47.6204195 ]
+    },
+    "properties": {
+    "OBJECTID":349,
+    "PMA":373,
+    "PARKSBND_AREA":329405.9385,
+    "Shape_Length":1287.676721,
+    "Shape_Area":67331.63218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2900636,47.60312902 ]
+    },
+    "properties": {
+    "OBJECTID":350,
+    "PMA":378,
+    "PARKSBND_AREA":99679.58638,
+    "Shape_Length":555.2361398,
+    "Shape_Area":20334.01398
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3014152,47.68805595 ]
+    },
+    "properties": {
+    "OBJECTID":351,
+    "PMA":4322,
+    "PARKSBND_AREA":127560.1584,
+    "Shape_Length":641.3311526,
+    "Shape_Area":26123.69105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3438845,47.60840309 ]
+    },
+    "properties": {
+    "OBJECTID":352,
+    "PMA":274,
+    "PARKSBND_AREA":88215.77986,
+    "Shape_Length":672.8616464,
+    "Shape_Area":18020.48956
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3588712,47.5619539 ]
+    },
+    "properties": {
+    "OBJECTID":353,
+    "PMA":282,
+    "PARKSBND_AREA":1310747.411,
+    "Shape_Length":3627.422182,
+    "Shape_Area":267394.2826
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3146355,47.71670896 ]
+    },
+    "properties": {
+    "OBJECTID":354,
+    "PMA":382,
+    "PARKSBND_AREA":54846.53968,
+    "Shape_Length":430.0326548,
+    "Shape_Area":11249.54272
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3083633,47.71435153 ]
+    },
+    "properties": {
+    "OBJECTID":355,
+    "PMA":4444,
+    "PARKSBND_AREA":8104.743913,
+    "Shape_Length":170.0521917,
+    "Shape_Area":1662.354269
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3340416,47.60246565 ]
+    },
+    "properties": {
+    "OBJECTID":356,
+    "PMA":325,
+    "PARKSBND_AREA":13852.94091,
+    "Shape_Length":257.8638077,
+    "Shape_Area":2829.655347
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3635921,47.71501672 ]
+    },
+    "properties": {
+    "OBJECTID":357,
+    "PMA":275,
+    "PARKSBND_AREA":406754.4902,
+    "Shape_Length":1707.147893,
+    "Shape_Area":83435.32714
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2988941,47.61721614 ]
+    },
+    "properties": {
+    "OBJECTID":358,
+    "PMA":387,
+    "PARKSBND_AREA":14397.83232,
+    "Shape_Length":216.9939386,
+    "Shape_Area":2942.867778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3291292,47.61387057 ]
+    },
+    "properties": {
+    "OBJECTID":359,
+    "PMA":4000,
+    "PARKSBND_AREA":29733.63318,
+    "Shape_Length":575.0562194,
+    "Shape_Area":6087.065123
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2963007,47.60608981 ]
+    },
+    "properties": {
+    "OBJECTID":360,
+    "PMA":345,
+    "PARKSBND_AREA":189757.733,
+    "Shape_Length":852.3626248,
+    "Shape_Area":38756.03985
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3064863,47.60134509 ]
+    },
+    "properties": {
+    "OBJECTID":361,
+    "PMA":390,
+    "PARKSBND_AREA":237941.8843,
+    "Shape_Length":1016.924247,
+    "Shape_Area":48590.71299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3308301,47.60191809 ]
+    },
+    "properties": {
+    "OBJECTID":362,
+    "PMA":326,
+    "PARKSBND_AREA":1809.824619,
+    "Shape_Length":96.41469587,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3018946,47.62308885 ]
+    },
+    "properties": {
+    "OBJECTID":363,
+    "PMA":357,
+    "PARKSBND_AREA":15901.86882,
+    "Shape_Length":246.103365,
+    "Shape_Area":3250.039758
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2611169,47.52940229 ]
+    },
+    "properties": {
+    "OBJECTID":364,
+    "PMA":420,
+    "PARKSBND_AREA":584016.2557,
+    "Shape_Length":2609.614471,
+    "Shape_Area":118893.6299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3592647,47.55992417 ]
+    },
+    "properties": {
+    "OBJECTID":365,
+    "PMA":4158,
+    "PARKSBND_AREA":258799.1292,
+    "Shape_Length":2380.169722,
+    "Shape_Area":52753.38278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3577023,47.55408844 ]
+    },
+    "properties": {
+    "OBJECTID":366,
+    "PMA":4572,
+    "PARKSBND_AREA":29350.80656,
+    "Shape_Length":333.5417988,
+    "Shape_Area":5983.170493
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3591103,47.55057228 ]
+    },
+    "properties": {
+    "OBJECTID":367,
+    "PMA":3993,
+    "PARKSBND_AREA":303563.1806,
+    "Shape_Length":2160.179744,
+    "Shape_Area":61903.58852
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3584515,47.54661616 ]
+    },
+    "properties": {
+    "OBJECTID":368,
+    "PMA":3993,
+    "PARKSBND_AREA":39253.30241,
+    "Shape_Length":512.1450184,
+    "Shape_Area":7999.616246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3553262,47.55941435 ]
+    },
+    "properties": {
+    "OBJECTID":369,
+    "PMA":462,
+    "PARKSBND_AREA":956208.0154,
+    "Shape_Length":3036.830563,
+    "Shape_Area":195158.2724
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.359866,47.54754293 ]
+    },
+    "properties": {
+    "OBJECTID":370,
+    "PMA":4201,
+    "PARKSBND_AREA":6261.688562,
+    "Shape_Length":188.7939681,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3674104,47.64582331 ]
+    },
+    "properties": {
+    "OBJECTID":371,
+    "PMA":328,
+    "PARKSBND_AREA":1317471.844,
+    "Shape_Length":18251.24807,
+    "Shape_Area":269631.2591
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3595335,47.64600699 ]
+    },
+    "properties": {
+    "OBJECTID":372,
+    "PMA":3984,
+    "PARKSBND_AREA":236235.1377,
+    "Shape_Length":1331.21853,
+    "Shape_Area":48326.00709
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3581329,47.63706036 ]
+    },
+    "properties": {
+    "OBJECTID":373,
+    "PMA":337,
+    "PARKSBND_AREA":43550.51369,
+    "Shape_Length":437.0319647,
+    "Shape_Area":8901.833491
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3201964,47.68314355 ]
+    },
+    "properties": {
+    "OBJECTID":374,
+    "PMA":4045,
+    "PARKSBND_AREA":34611.02704,
+    "Shape_Length":540.8274976,
+    "Shape_Area":7093.263389
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2701509,47.52504377 ]
+    },
+    "properties": {
+    "OBJECTID":375,
+    "PMA":434,
+    "PARKSBND_AREA":126329.2455,
+    "Shape_Length":691.0696853,
+    "Shape_Area":25674.91678
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2716912,47.52521045 ]
+    },
+    "properties": {
+    "OBJECTID":376,
+    "PMA":422,
+    "PARKSBND_AREA":412440.1933,
+    "Shape_Length":1251.346527,
+    "Shape_Area":84000.39827
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2622933,47.52422652 ]
+    },
+    "properties": {
+    "OBJECTID":377,
+    "PMA":3946,
+    "PARKSBND_AREA":434564.8089,
+    "Shape_Length":2359.532012,
+    "Shape_Area":88484.80025
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3594249,47.66760466 ]
+    },
+    "properties": {
+    "OBJECTID":378,
+    "PMA":3999,
+    "PARKSBND_AREA":412.299106,
+    "Shape_Length":38.11419989,
+    "Shape_Area":77.93062271
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2876548,47.56275761 ]
+    },
+    "properties": {
+    "OBJECTID":379,
+    "PMA":423,
+    "PARKSBND_AREA":413283.6058,
+    "Shape_Length":1160.945246,
+    "Shape_Area":84249.77426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3049712,47.67693457 ]
+    },
+    "properties": {
+    "OBJECTID":380,
+    "PMA":488,
+    "PARKSBND_AREA":143615.8271,
+    "Shape_Length":902.2243247,
+    "Shape_Area":29410.44606
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3203524,47.67418103 ]
+    },
+    "properties": {
+    "OBJECTID":381,
+    "PMA":388,
+    "PARKSBND_AREA":329432.8371,
+    "Shape_Length":6793.428415,
+    "Shape_Area":67548.05841
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3021254,47.66844488 ]
+    },
+    "properties": {
+    "OBJECTID":382,
+    "PMA":391,
+    "PARKSBND_AREA":2174801.935,
+    "Shape_Length":4536.229179,
+    "Shape_Area":445356.2032
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3018296,47.67432416 ]
+    },
+    "properties": {
+    "OBJECTID":383,
+    "PMA":254,
+    "PARKSBND_AREA":42333.49213,
+    "Shape_Length":474.8756779,
+    "Shape_Area":8669.856672
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3034951,47.66275558 ]
+    },
+    "properties": {
+    "OBJECTID":384,
+    "PMA":4411,
+    "PARKSBND_AREA":50208.65198,
+    "Shape_Length":435.4128857,
+    "Shape_Area":10277.70234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3451015,47.61432926 ]
+    },
+    "properties": {
+    "OBJECTID":385,
+    "PMA":336,
+    "PARKSBND_AREA":12959.37566,
+    "Shape_Length":206.1211774,
+    "Shape_Area":2648.127753
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3475448,47.53957459 ]
+    },
+    "properties": {
+    "OBJECTID":386,
+    "PMA":463,
+    "PARKSBND_AREA":1840779.31,
+    "Shape_Length":3125.937834,
+    "Shape_Area":375096.7839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.319747,47.64343358 ]
+    },
+    "properties": {
+    "OBJECTID":387,
+    "PMA":379,
+    "PARKSBND_AREA":109540.4386,
+    "Shape_Length":1018.910126,
+    "Shape_Area":22403.37286
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3287277,47.64321981 ]
+    },
+    "properties": {
+    "OBJECTID":388,
+    "PMA":4084,
+    "PARKSBND_AREA":4701.688414,
+    "Shape_Length":217.1679322,
+    "Shape_Area":960.9676377
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3247817,47.64239081 ]
+    },
+    "properties": {
+    "OBJECTID":389,
+    "PMA":380,
+    "PARKSBND_AREA":83660.36561,
+    "Shape_Length":534.6567532,
+    "Shape_Area":17112.23497
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3609329,47.6595802 ]
+    },
+    "properties": {
+    "OBJECTID":390,
+    "PMA":248,
+    "PARKSBND_AREA":102318.2233,
+    "Shape_Length":638.029439,
+    "Shape_Area":20945.34376
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3759217,47.56192229 ]
+    },
+    "properties": {
+    "OBJECTID":391,
+    "PMA":4465,
+    "PARKSBND_AREA":97590.62159,
+    "Shape_Length":1246.768726,
+    "Shape_Area":19782.70026
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.367389,47.51928354 ]
+    },
+    "properties": {
+    "OBJECTID":392,
+    "PMA":464,
+    "PARKSBND_AREA":583537.2519,
+    "Shape_Length":1720.995712,
+    "Shape_Area":118801.6298
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2889844,47.569935 ]
+    },
+    "properties": {
+    "OBJECTID":393,
+    "PMA":4483,
+    "PARKSBND_AREA":32120.20498,
+    "Shape_Length":356.404158,
+    "Shape_Area":6551.699264
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3679513,47.5281992 ]
+    },
+    "properties": {
+    "OBJECTID":394,
+    "PMA":3996,
+    "PARKSBND_AREA":104931.8457,
+    "Shape_Length":614.7494346,
+    "Shape_Area":21365.07679
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3089183,47.69753839 ]
+    },
+    "properties": {
+    "OBJECTID":395,
+    "PMA":394,
+    "PARKSBND_AREA":113467.6967,
+    "Shape_Length":616.2513387,
+    "Shape_Area":23257.64323
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3831047,47.67987069 ]
+    },
+    "properties": {
+    "OBJECTID":396,
+    "PMA":249,
+    "PARKSBND_AREA":122885.0136,
+    "Shape_Length":663.0540992,
+    "Shape_Area":25169.29907
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3021248,47.59181071 ]
+    },
+    "properties": {
+    "OBJECTID":397,
+    "PMA":4242,
+    "PARKSBND_AREA":936860.5101,
+    "Shape_Length":5045.623338,
+    "Shape_Area":191186.2902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3581435,47.69442023 ]
+    },
+    "properties": {
+    "OBJECTID":398,
+    "PMA":250,
+    "PARKSBND_AREA":161891.4731,
+    "Shape_Length":787.8377302,
+    "Shape_Area":33180.56743
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4033961,47.57740145 ]
+    },
+    "properties": {
+    "OBJECTID":399,
+    "PMA":4236,
+    "PARKSBND_AREA":103977.4411,
+    "Shape_Length":1156.73252,
+    "Shape_Area":21151.08474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4000341,47.57659041 ]
+    },
+    "properties": {
+    "OBJECTID":400,
+    "PMA":465,
+    "PARKSBND_AREA":2311529.377,
+    "Shape_Length":5099.603159,
+    "Shape_Area":471623.2518
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3799777,47.58928759 ]
+    },
+    "properties": {
+    "OBJECTID":401,
+    "PMA":455,
+    "PARKSBND_AREA":704266.0237,
+    "Shape_Length":2458.768093,
+    "Shape_Area":143608.126
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3457046,47.60838716 ]
+    },
+    "properties": {
+    "OBJECTID":402,
+    "PMA":335,
+    "PARKSBND_AREA":203736.42,
+    "Shape_Length":977.7866205,
+    "Shape_Area":41593.11779
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.370861,47.50347069 ]
+    },
+    "properties": {
+    "OBJECTID":403,
+    "PMA":466,
+    "PARKSBND_AREA":23531.04037,
+    "Shape_Length":435.1365373,
+    "Shape_Area":4758.398859
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3740979,47.5005505 ]
+    },
+    "properties": {
+    "OBJECTID":404,
+    "PMA":466,
+    "PARKSBND_AREA":615245.8821,
+    "Shape_Length":3092.322263,
+    "Shape_Area":125155.4492
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3115783,47.61776867 ]
+    },
+    "properties": {
+    "OBJECTID":405,
+    "PMA":4466,
+    "PARKSBND_AREA":17330.24233,
+    "Shape_Length":238.9454888,
+    "Shape_Area":3541.31934
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2458706,47.55332495 ]
+    },
+    "properties": {
+    "OBJECTID":406,
+    "PMA":428,
+    "PARKSBND_AREA":12809775.85,
+    "Shape_Length":7662.522616,
+    "Shape_Area":2611259.747
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2825412,47.57333987 ]
+    },
+    "properties": {
+    "OBJECTID":407,
+    "PMA":3928,
+    "PARKSBND_AREA":640.143887,
+    "Shape_Length":56.18432427,
+    "Shape_Area":134.8811402
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3870649,47.63361248 ]
+    },
+    "properties": {
+    "OBJECTID":408,
+    "PMA":4433,
+    "PARKSBND_AREA":414345.9715,
+    "Shape_Length":2321.140231,
+    "Shape_Area":84695.12518
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3897983,47.53699798 ]
+    },
+    "properties": {
+    "OBJECTID":409,
+    "PMA":4453,
+    "PARKSBND_AREA":312494.5528,
+    "Shape_Length":1110.311336,
+    "Shape_Area":63659.83336
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3808341,47.69606444 ]
+    },
+    "properties": {
+    "OBJECTID":410,
+    "PMA":251,
+    "PARKSBND_AREA":458017.9091,
+    "Shape_Length":1302.746877,
+    "Shape_Area":93871.45719
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3715098,47.64138788 ]
+    },
+    "properties": {
+    "OBJECTID":411,
+    "PMA":3987,
+    "PARKSBND_AREA":13215.8832,
+    "Shape_Length":346.6123654,
+    "Shape_Area":2705.235843
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2868442,47.5910168 ]
+    },
+    "properties": {
+    "OBJECTID":412,
+    "PMA":4082,
+    "PARKSBND_AREA":169286.2303,
+    "Shape_Length":789.1579217,
+    "Shape_Area":34557.16739
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3232308,47.5210806 ]
+    },
+    "properties": {
+    "OBJECTID":413,
+    "PMA":4048,
+    "PARKSBND_AREA":42909.05931,
+    "Shape_Length":373.8820109,
+    "Shape_Area":8736.472634
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.324085,47.5274012 ]
+    },
+    "properties": {
+    "OBJECTID":414,
+    "PMA":467,
+    "PARKSBND_AREA":241910.573,
+    "Shape_Length":882.3173638,
+    "Shape_Area":49265.45826
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3150641,47.52760905 ]
+    },
+    "properties": {
+    "OBJECTID":415,
+    "PMA":4491,
+    "PARKSBND_AREA":36280.17224,
+    "Shape_Length":347.3275142,
+    "Shape_Area":7388.519732
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3219475,47.65241084 ]
+    },
+    "properties": {
+    "OBJECTID":416,
+    "PMA":377,
+    "PARKSBND_AREA":38765.5397,
+    "Shape_Length":398.938366,
+    "Shape_Area":7940.836642
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3126415,47.61196622 ]
+    },
+    "properties": {
+    "OBJECTID":417,
+    "PMA":381,
+    "PARKSBND_AREA":14304.09999,
+    "Shape_Length":216.2371199,
+    "Shape_Area":2922.352586
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.320735,47.63139433 ]
+    },
+    "properties": {
+    "OBJECTID":418,
+    "PMA":2848,
+    "PARKSBND_AREA":128747.1076,
+    "Shape_Length":1433.746485,
+    "Shape_Area":26311.19893
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2745535,47.57117647 ]
+    },
+    "properties": {
+    "OBJECTID":419,
+    "PMA":425,
+    "PARKSBND_AREA":968353.7326,
+    "Shape_Length":4767.745352,
+    "Shape_Area":197570.1526
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3106829,47.57742549 ]
+    },
+    "properties": {
+    "OBJECTID":420,
+    "PMA":3919,
+    "PARKSBND_AREA":8069.763024,
+    "Shape_Length":205.8404901,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2836776,47.61961576 ]
+    },
+    "properties": {
+    "OBJECTID":421,
+    "PMA":3981,
+    "PARKSBND_AREA":3096.817975,
+    "Shape_Length":186.4634611,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3899267,47.50580104 ]
+    },
+    "properties": {
+    "OBJECTID":422,
+    "PMA":4488,
+    "PARKSBND_AREA":237930.9476,
+    "Shape_Length":1282.759481,
+    "Shape_Area":48459.12122
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3206376,47.63427981 ]
+    },
+    "properties": {
+    "OBJECTID":423,
+    "PMA":4628,
+    "PARKSBND_AREA":30297.02339,
+    "Shape_Length":369.6714766,
+    "Shape_Area":6195.196713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3158833,47.59468662 ]
+    },
+    "properties": {
+    "OBJECTID":424,
+    "PMA":592,
+    "PARKSBND_AREA":92487.61545,
+    "Shape_Length":1072.224639,
+    "Shape_Area":18889.38964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2676713,47.51693004 ]
+    },
+    "properties": {
+    "OBJECTID":425,
+    "PMA":290,
+    "PARKSBND_AREA":122273.5561,
+    "Shape_Length":1162.672663,
+    "Shape_Area":24943.36146
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3256672,47.62714023 ]
+    },
+    "properties": {
+    "OBJECTID":426,
+    "PMA":383,
+    "PARKSBND_AREA":764.632218,
+    "Shape_Length":60.82968573,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3246861,47.61993057 ]
+    },
+    "properties": {
+    "OBJECTID":427,
+    "PMA":4461,
+    "PARKSBND_AREA":9605.360712,
+    "Shape_Length":180.8318194,
+    "Shape_Area":1963.007846
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3307612,47.65056779 ]
+    },
+    "properties": {
+    "OBJECTID":428,
+    "PMA":3903,
+    "PARKSBND_AREA":23534.88154,
+    "Shape_Length":411.809355,
+    "Shape_Area":4815.262485
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4013544,47.684853 ]
+    },
+    "properties": {
+    "OBJECTID":429,
+    "PMA":252,
+    "PARKSBND_AREA":117486.3163,
+    "Shape_Length":815.1184134,
+    "Shape_Area":24068.79637
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.357782,47.66677469 ]
+    },
+    "properties": {
+    "OBJECTID":430,
+    "PMA":3901,
+    "PARKSBND_AREA":4761.642038,
+    "Shape_Length":130.0900904,
+    "Shape_Area":969.3384383
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3733613,47.63494144 ]
+    },
+    "properties": {
+    "OBJECTID":431,
+    "PMA":234,
+    "PARKSBND_AREA":546933.1194,
+    "Shape_Length":4843.956976,
+    "Shape_Area":111831.2095
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3099548,47.61331258 ]
+    },
+    "properties": {
+    "OBJECTID":432,
+    "PMA":3913,
+    "PARKSBND_AREA":70983.5125,
+    "Shape_Length":527.0540531,
+    "Shape_Area":14477.24977
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3231633,47.62402944 ]
+    },
+    "properties": {
+    "OBJECTID":433,
+    "PMA":384,
+    "PARKSBND_AREA":20514.28883,
+    "Shape_Length":326.8333294,
+    "Shape_Area":4193.031282
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2565347,47.50265906 ]
+    },
+    "properties": {
+    "OBJECTID":434,
+    "PMA":4475,
+    "PARKSBND_AREA":30275.1731,
+    "Shape_Length":449.6981532,
+    "Shape_Area":6168.430329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3297312,47.63684987 ]
+    },
+    "properties": {
+    "OBJECTID":435,
+    "PMA":3889,
+    "PARKSBND_AREA":37284.88329,
+    "Shape_Length":403.5129913,
+    "Shape_Area":7624.446864
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2499517,47.51070236 ]
+    },
+    "properties": {
+    "OBJECTID":436,
+    "PMA":4014,
+    "PARKSBND_AREA":3341.943213,
+    "Shape_Length":107.7196959,
+    "Shape_Area":677.4219847
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.345747,47.64073672 ]
+    },
+    "properties": {
+    "OBJECTID":437,
+    "PMA":1106,
+    "PARKSBND_AREA":58775.54767,
+    "Shape_Length":450.0358825,
+    "Shape_Area":12021.54649
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3192152,47.62132359 ]
+    },
+    "properties": {
+    "OBJECTID":438,
+    "PMA":4104,
+    "PARKSBND_AREA":5264.610665,
+    "Shape_Length":140.732651,
+    "Shape_Area":1075.96034
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3264589,47.6211599 ]
+    },
+    "properties": {
+    "OBJECTID":439,
+    "PMA":386,
+    "PARKSBND_AREA":10783.01824,
+    "Shape_Length":189.6083293,
+    "Shape_Area":2203.000127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390555,47.63451673 ]
+    },
+    "properties": {
+    "OBJECTID":440,
+    "PMA":343,
+    "PARKSBND_AREA":59728.75294,
+    "Shape_Length":781.5400708,
+    "Shape_Area":12213.03719
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2999252,47.69791317 ]
+    },
+    "properties": {
+    "OBJECTID":441,
+    "PMA":416,
+    "PARKSBND_AREA":94699.23554,
+    "Shape_Length":1180.453713,
+    "Shape_Area":19411.66703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.395317,47.67084362 ]
+    },
+    "properties": {
+    "OBJECTID":442,
+    "PMA":4405,
+    "PARKSBND_AREA":4857.235799,
+    "Shape_Length":133.1696978,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3474457,47.6183199 ]
+    },
+    "properties": {
+    "OBJECTID":443,
+    "PMA":3909,
+    "PARKSBND_AREA":1755.519533,
+    "Shape_Length":66.71950339,
+    "Shape_Area":349.6442369
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3479112,47.65112059 ]
+    },
+    "properties": {
+    "OBJECTID":444,
+    "PMA":4599,
+    "PARKSBND_AREA":24598.58135,
+    "Shape_Length":348.954446,
+    "Shape_Area":5020.679433
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3465299,47.63501629 ]
+    },
+    "properties": {
+    "OBJECTID":445,
+    "PMA":4421,
+    "PARKSBND_AREA":37717.08033,
+    "Shape_Length":360.4285073,
+    "Shape_Area":7704.0037
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2861764,47.57682096 ]
+    },
+    "properties": {
+    "OBJECTID":446,
+    "PMA":4041,
+    "PARKSBND_AREA":10996.45005,
+    "Shape_Length":199.2040279,
+    "Shape_Area":2208.464329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.317522,47.57788087 ]
+    },
+    "properties": {
+    "OBJECTID":447,
+    "PMA":4159,
+    "PARKSBND_AREA":46472.9885,
+    "Shape_Length":566.8534388,
+    "Shape_Area":9482.770296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3728887,47.63679348 ]
+    },
+    "properties": {
+    "OBJECTID":448,
+    "PMA":281,
+    "PARKSBND_AREA":49289.64284,
+    "Shape_Length":569.5200226,
+    "Shape_Area":10081.20677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2875723,47.65795525 ]
+    },
+    "properties": {
+    "OBJECTID":449,
+    "PMA":4431,
+    "PARKSBND_AREA":51161.00205,
+    "Shape_Length":539.8149395,
+    "Shape_Area":10486.37172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2863479,47.65648105 ]
+    },
+    "properties": {
+    "OBJECTID":450,
+    "PMA":3751,
+    "PARKSBND_AREA":8114.07206,
+    "Shape_Length":178.8774033,
+    "Shape_Area":1660.546424
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3301367,47.59929176 ]
+    },
+    "properties": {
+    "OBJECTID":451,
+    "PMA":4007,
+    "PARKSBND_AREA":1528.143138,
+    "Shape_Length":93.56857902,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2753772,47.67198521 ]
+    },
+    "properties": {
+    "OBJECTID":452,
+    "PMA":424,
+    "PARKSBND_AREA":8171.123109,
+    "Shape_Length":144.6171868,
+    "Shape_Area":1643.976164
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3132637,47.66500724 ]
+    },
+    "properties": {
+    "OBJECTID":453,
+    "PMA":4471,
+    "PARKSBND_AREA":14682.56482,
+    "Shape_Length":224.3001112,
+    "Shape_Area":3005.820043
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2799719,47.71886972 ]
+    },
+    "properties": {
+    "OBJECTID":454,
+    "PMA":3998,
+    "PARKSBND_AREA":6619.171473,
+    "Shape_Length":165.4323405,
+    "Shape_Area":1362.411384
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3196562,47.66486891 ]
+    },
+    "properties": {
+    "OBJECTID":455,
+    "PMA":435,
+    "PARKSBND_AREA":119713.0025,
+    "Shape_Length":646.6607973,
+    "Shape_Area":24506.18741
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3379078,47.61661776 ]
+    },
+    "properties": {
+    "OBJECTID":456,
+    "PMA":4384,
+    "PARKSBND_AREA":9148.195743,
+    "Shape_Length":206.0810853,
+    "Shape_Area":1869.372819
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3893603,47.63234095 ]
+    },
+    "properties": {
+    "OBJECTID":457,
+    "PMA":4451,
+    "PARKSBND_AREA":106227.1435,
+    "Shape_Length":928.3817283,
+    "Shape_Area":21763.8616
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2967547,47.53992938 ]
+    },
+    "properties": {
+    "OBJECTID":458,
+    "PMA":431,
+    "PARKSBND_AREA":393233.0783,
+    "Shape_Length":1401.173031,
+    "Shape_Area":80007.69976
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3434561,47.60977862 ]
+    },
+    "properties": {
+    "OBJECTID":459,
+    "PMA":338,
+    "PARKSBND_AREA":34522.26203,
+    "Shape_Length":398.7537915,
+    "Shape_Area":7052.587994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.316115,47.7067291 ]
+    },
+    "properties": {
+    "OBJECTID":460,
+    "PMA":416,
+    "PARKSBND_AREA":2654.038877,
+    "Shape_Length":109.5647154,
+    "Shape_Area":544.203626
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3162503,47.70710518 ]
+    },
+    "properties": {
+    "OBJECTID":461,
+    "PMA":4616,
+    "PARKSBND_AREA":7537.858563,
+    "Shape_Length":172.911389,
+    "Shape_Area":1545.628176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3157541,47.70969863 ]
+    },
+    "properties": {
+    "OBJECTID":462,
+    "PMA":4443,
+    "PARKSBND_AREA":43191.64708,
+    "Shape_Length":461.3880111,
+    "Shape_Area":8854.713745
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3080231,47.70568681 ]
+    },
+    "properties": {
+    "OBJECTID":463,
+    "PMA":438,
+    "PARKSBND_AREA":68239.45968,
+    "Shape_Length":561.207348,
+    "Shape_Area":13955.94404
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2820946,47.68122662 ]
+    },
+    "properties": {
+    "OBJECTID":464,
+    "PMA":444,
+    "PARKSBND_AREA":397907.6207,
+    "Shape_Length":1142.102481,
+    "Shape_Area":81505.64318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2823341,47.61940374 ]
+    },
+    "properties": {
+    "OBJECTID":465,
+    "PMA":3098,
+    "PARKSBND_AREA":79936.91746,
+    "Shape_Length":775.1054744,
+    "Shape_Area":16372.90535
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3002079,47.71838216 ]
+    },
+    "properties": {
+    "OBJECTID":466,
+    "PMA":4002,
+    "PARKSBND_AREA":120898.969,
+    "Shape_Length":622.8751173,
+    "Shape_Area":24798.7399
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3182187,47.63229286 ]
+    },
+    "properties": {
+    "OBJECTID":467,
+    "PMA":399,
+    "PARKSBND_AREA":2104410.098,
+    "Shape_Length":2608.245173,
+    "Shape_Area":430204.2929
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3145488,47.62841713 ]
+    },
+    "properties": {
+    "OBJECTID":468,
+    "PMA":4033,
+    "PARKSBND_AREA":108166.5649,
+    "Shape_Length":1774.370488,
+    "Shape_Area":22091.81716
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3363548,47.65824018 ]
+    },
+    "properties": {
+    "OBJECTID":469,
+    "PMA":449,
+    "PARKSBND_AREA":195578.8641,
+    "Shape_Length":828.04834,
+    "Shape_Area":40029.29316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3364759,47.64737165 ]
+    },
+    "properties": {
+    "OBJECTID":470,
+    "PMA":4598,
+    "PARKSBND_AREA":8416.537528,
+    "Shape_Length":188.8344897,
+    "Shape_Area":1722.584716
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3733236,47.54138985 ]
+    },
+    "properties": {
+    "OBJECTID":471,
+    "PMA":3941,
+    "PARKSBND_AREA":489690.4871,
+    "Shape_Length":1540.362514,
+    "Shape_Area":99717.1904
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3489843,47.62790359 ]
+    },
+    "properties": {
+    "OBJECTID":472,
+    "PMA":763,
+    "PARKSBND_AREA":14685.15206,
+    "Shape_Length":219.4615325,
+    "Shape_Area":3002.029348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2460233,47.68362808 ]
+    },
+    "properties": {
+    "OBJECTID":473,
+    "PMA":398,
+    "PARKSBND_AREA":13444343.22,
+    "Shape_Length":13980.5039,
+    "Shape_Area":2753692.335
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2963865,47.62772772 ]
+    },
+    "properties": {
+    "OBJECTID":474,
+    "PMA":4486,
+    "PARKSBND_AREA":547013.9578,
+    "Shape_Length":1549.839408,
+    "Shape_Area":111809.5318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.296007,47.62881012 ]
+    },
+    "properties": {
+    "OBJECTID":475,
+    "PMA":4487,
+    "PARKSBND_AREA":163929.1444,
+    "Shape_Length":890.743974,
+    "Shape_Area":33499.71263
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2988854,47.63790256 ]
+    },
+    "properties": {
+    "OBJECTID":476,
+    "PMA":393,
+    "PARKSBND_AREA":6448808.544,
+    "Shape_Length":16773.45924,
+    "Shape_Area":1318820.841
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3437316,47.60839006 ]
+    },
+    "properties": {
+    "OBJECTID":477,
+    "PMA":3973,
+    "PARKSBND_AREA":164661.898,
+    "Shape_Length":1361.116388,
+    "Shape_Area":33619.53369
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3319707,47.64587678 ]
+    },
+    "properties": {
+    "OBJECTID":478,
+    "PMA":4083,
+    "PARKSBND_AREA":81296.24916,
+    "Shape_Length":695.1105085,
+    "Shape_Area":16631.4956
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3817763,47.54087137 ]
+    },
+    "properties": {
+    "OBJECTID":479,
+    "PMA":4409,
+    "PARKSBND_AREA":4857.305024,
+    "Shape_Length":143.3769993,
+    "Shape_Area":980.1737808
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3978307,47.67765104 ]
+    },
+    "properties": {
+    "OBJECTID":480,
+    "PMA":3894,
+    "PARKSBND_AREA":35374.09285,
+    "Shape_Length":365.3312749,
+    "Shape_Area":7245.267139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2948318,47.68824397 ]
+    },
+    "properties": {
+    "OBJECTID":481,
+    "PMA":3899,
+    "PARKSBND_AREA":2971.637871,
+    "Shape_Length":101.8664809,
+    "Shape_Area":599.8517754
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3754969,47.63592312 ]
+    },
+    "properties": {
+    "OBJECTID":482,
+    "PMA":257,
+    "PARKSBND_AREA":53515.67437,
+    "Shape_Length":466.4516356,
+    "Shape_Area":10940.70295
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.35476,47.56572358 ]
+    },
+    "properties": {
+    "OBJECTID":483,
+    "PMA":282,
+    "PARKSBND_AREA":1235443.419,
+    "Shape_Length":7338.556213,
+    "Shape_Area":251914
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3451779,47.53905698 ]
+    },
+    "properties": {
+    "OBJECTID":484,
+    "PMA":484,
+    "PARKSBND_AREA":2313540.51,
+    "Shape_Length":6435.842612,
+    "Shape_Area":471115.684
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3479736,47.54538146 ]
+    },
+    "properties": {
+    "OBJECTID":485,
+    "PMA":4401,
+    "PARKSBND_AREA":2558508.851,
+    "Shape_Length":10561.84232,
+    "Shape_Area":521363.0543
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3477919,47.53907323 ]
+    },
+    "properties": {
+    "OBJECTID":486,
+    "PMA":4407,
+    "PARKSBND_AREA":2477214.527,
+    "Shape_Length":5645.906738,
+    "Shape_Area":504796.3919
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3598912,47.65180844 ]
+    },
+    "properties": {
+    "OBJECTID":487,
+    "PMA":3694,
+    "PARKSBND_AREA":18334.40026,
+    "Shape_Length":367.5206065,
+    "Shape_Area":3762.01268
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398393,47.64542358 ]
+    },
+    "properties": {
+    "OBJECTID":488,
+    "PMA":319,
+    "PARKSBND_AREA":664843.6965,
+    "Shape_Length":2271.441568,
+    "Shape_Area":135954.106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3089721,47.64682993 ]
+    },
+    "properties": {
+    "OBJECTID":489,
+    "PMA":375,
+    "PARKSBND_AREA":122856.9148,
+    "Shape_Length":1130.188234,
+    "Shape_Area":25126.24239
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.358993,47.63643852 ]
+    },
+    "properties": {
+    "OBJECTID":490,
+    "PMA":330,
+    "PARKSBND_AREA":268213.4672,
+    "Shape_Length":1054.141171,
+    "Shape_Area":54836.54951
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3662287,47.55208591 ]
+    },
+    "properties": {
+    "OBJECTID":491,
+    "PMA":265,
+    "PARKSBND_AREA":590598.6772,
+    "Shape_Length":5505.310927,
+    "Shape_Area":120386.3176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3758669,47.56004113 ]
+    },
+    "properties": {
+    "OBJECTID":492,
+    "PMA":469,
+    "PARKSBND_AREA":6013906.112,
+    "Shape_Length":5315.169748,
+    "Shape_Area":1226454.091
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3830326,47.5600767 ]
+    },
+    "properties": {
+    "OBJECTID":493,
+    "PMA":4568,
+    "PARKSBND_AREA":16718.84246,
+    "Shape_Length":236.1408511,
+    "Shape_Area":3408.914282
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3759314,47.56371762 ]
+    },
+    "properties": {
+    "OBJECTID":494,
+    "PMA":472,
+    "PARKSBND_AREA":503503.599,
+    "Shape_Length":1324.073527,
+    "Shape_Area":102695.1083
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3537299,47.56670623 ]
+    },
+    "properties": {
+    "OBJECTID":495,
+    "PMA":4420,
+    "PARKSBND_AREA":238568.9642,
+    "Shape_Length":978.1299532,
+    "Shape_Area":48650.79337
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.337511,47.53103473 ]
+    },
+    "properties": {
+    "OBJECTID":496,
+    "PMA":468,
+    "PARKSBND_AREA":5631702.741,
+    "Shape_Length":7539.869704,
+    "Shape_Area":1146771.808
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3432352,47.64180707 ]
+    },
+    "properties": {
+    "OBJECTID":497,
+    "PMA":494,
+    "PARKSBND_AREA":62114.90063,
+    "Shape_Length":663.3371505,
+    "Shape_Area":12704.87309
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3369333,47.6113771 ]
+    },
+    "properties": {
+    "OBJECTID":498,
+    "PMA":332,
+    "PARKSBND_AREA":20618.82392,
+    "Shape_Length":339.6803343,
+    "Shape_Area":4212.309859
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3373255,47.61368571 ]
+    },
+    "properties": {
+    "OBJECTID":499,
+    "PMA":334,
+    "PARKSBND_AREA":469.354351,
+    "Shape_Length":47.44104848,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2933871,47.61813677 ]
+    },
+    "properties": {
+    "OBJECTID":500,
+    "PMA":385,
+    "PARKSBND_AREA":18038.31154,
+    "Shape_Length":274.5856062,
+    "Shape_Area":3686.139278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3133456,47.61987162 ]
+    },
+    "properties": {
+    "OBJECTID":501,
+    "PMA":4016,
+    "PARKSBND_AREA":5696.43832,
+    "Shape_Length":153.876112,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3520321,47.64057805 ]
+    },
+    "properties": {
+    "OBJECTID":502,
+    "PMA":278,
+    "PARKSBND_AREA":65116.44714,
+    "Shape_Length":853.9596472,
+    "Shape_Area":13316.12459
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3402809,47.66961375 ]
+    },
+    "properties": {
+    "OBJECTID":503,
+    "PMA":292,
+    "PARKSBND_AREA":4318801.272,
+    "Shape_Length":5215.839961,
+    "Shape_Area":883933.529
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3542457,47.66870131 ]
+    },
+    "properties": {
+    "OBJECTID":504,
+    "PMA":200,
+    "PARKSBND_AREA":3959004.925,
+    "Shape_Length":3660.504781,
+    "Shape_Area":810530.9059
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3196178,47.60160792 ]
+    },
+    "properties": {
+    "OBJECTID":505,
+    "PMA":4263,
+    "PARKSBND_AREA":139153.9888,
+    "Shape_Length":774.5892492,
+    "Shape_Area":28406.9385
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2959074,47.57057168 ]
+    },
+    "properties": {
+    "OBJECTID":506,
+    "PMA":580,
+    "PARKSBND_AREA":11032.53172,
+    "Shape_Length":205.0977339,
+    "Shape_Area":2250.397846
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2900088,47.57270811 ]
+    },
+    "properties": {
+    "OBJECTID":507,
+    "PMA":3926,
+    "PARKSBND_AREA":29898.65009,
+    "Shape_Length":456.2176653,
+    "Shape_Area":6099.200701
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3634527,47.68436692 ]
+    },
+    "properties": {
+    "OBJECTID":508,
+    "PMA":3158,
+    "PARKSBND_AREA":9006.612569,
+    "Shape_Length":172.4332379,
+    "Shape_Area":1845.427526
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.355386,47.62972993 ]
+    },
+    "properties": {
+    "OBJECTID":509,
+    "PMA":3979,
+    "PARKSBND_AREA":1587.893326,
+    "Shape_Length":72.94681036,
+    "Shape_Area":317.4870306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3243094,47.60051401 ]
+    },
+    "properties": {
+    "OBJECTID":510,
+    "PMA":3915,
+    "PARKSBND_AREA":44166.1355,
+    "Shape_Length":487.7799243,
+    "Shape_Area":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3043879,47.60288494 ]
+    },
+    "properties": {
+    "OBJECTID":511,
+    "PMA":3117,
+    "PARKSBND_AREA":31987.85463,
+    "Shape_Length":341.8024473,
+    "Shape_Area":6532.935762
+    }
+  }
+]
+}
