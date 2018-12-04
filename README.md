@@ -10,6 +10,7 @@ users a more complete view of a neighborhood.
 
 The project has the following structure:
 
+```
   GradPads/
     |- data/
       |- Crime_Data.csv
@@ -36,7 +37,7 @@ The project has the following structure:
         |- test_data_manipulation.py
     |- setup.py
     |- README.md
-
+```
 ### Project data
 
 This project uses Seattle open source data for crime, greenspace, and transit info.
