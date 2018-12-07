@@ -48,6 +48,7 @@ zip_codes = os.path.join('..', 'data', 'wa_washington_zip_codes_geo.min.json')
 
 #Adding a linear colormap for studio and one bedroom rental prices.
 colormap = linear.YlOrRd_09.scale(1050, 2650)
+colormap.caption = 'Monthly Rental Price in Dollars'
 m.add_child(colormap)
 
 #Studio Rental Price Layer
@@ -142,6 +143,78 @@ transit_geojson = folium.GeoJson(
 )
 
 transit_geojson.add_to(m)
+
+#Crime data
+"""Crimes are categorized geographically by 'beats'. These are at about the
+neighborhood level. For instance, Ballard North and Ballard South."""
+#Directory file path for beat geojson data.
+beats = os.path.join('..', 'data', 'SPD_Beats_WGS84.json')
+
+#Importing the crime-data csv from the data folder
+crime_data = os.path.join('..', 'data', 'Crime_Data.csv')
+crime_df = pd.read_csv(crime_data)
+
+#Editing the dataframe so that it only encompasses the past two yearsself.
+crime_df['Occurred Date'] = pd.to_datetime(crime_df['Occurred Date'])
+crime_df = crime_df[crime_df['Occurred Date'] > pd.Timestamp(2017,1,1)]
+#Adding a count column for easy groupby summation
+crime_df['Count'] = 1
+
+#Making a layer for total crime incidents
+total_crime_df = crime_df[['Occurred Date', 'Beat', 'Count']]
+
+total_crime_per_beat = total_crime_df.groupby('Beat', as_index=False).sum()
+
+total_crime_layer = folium.Choropleth(
+    geo_data=beats,
+    data=total_crime_per_beat,
+    columns=['Beat', 'Count'],
+    key_on= 'feature.properties.beat',
+    fill_color='BuPu',
+    nan_fill_color = 'none',
+    line_weight = 0.5,
+    name='Total Crime Incidents',
+    legend_name = 'Total Crime Incidents 2018'
+)
+
+total_crime_layer.add_to(m)
+#Making a new dataframe that is grouped by both beat and crime category
+theft_category_groupby = crime_df.groupby(['Beat', 'Crime Subcategory'], as_index=False).sum()
+theft_category_groupby = theft_category_groupby[['Beat', 'Crime Subcategory', 'Count']]
+
+#Making a bike-theft specific layer
+bike_theft_groupby = theft_category_groupby[theft_category_groupby['Crime Subcategory'] == 'THEFT-BICYCLE']
+
+bike_theft_layer = folium.Choropleth(
+    geo_data=beats,
+    data=bike_theft_groupby,
+    columns=['Beat', 'Count'],
+    key_on= 'feature.properties.beat',
+    fill_color='BuPu',
+    nan_fill_color = 'none',
+    line_weight = 0.5,
+    name='Bike Theft',
+    legend_name = 'Incidents of Bike Theft, Since 2017'
+)
+
+bike_theft_layer.add_to(m)
+
+#Making a car prowl layer
+car_prowl = theft_category_groupby[theft_category_groupby['Crime Subcategory'] == 'CAR PROWL']
+
+car_prowl_layer = folium.Choropleth(
+    geo_data=beats,
+    data=car_prowl,
+    columns=['Beat', 'Count'],
+    key_on= 'feature.properties.beat',
+    fill_color='BuPu',
+    nan_fill_color = 'none',
+    line_weight = 0.5,
+    name='Car Prowl',
+    legend_name = 'Incidents of Car Prowl, Since 2017'
+)
+
+car_prowl_layer.add_to(m)
 
 #Add layer control to our map and save it as an html
 folium.LayerControl().add_to(m)
