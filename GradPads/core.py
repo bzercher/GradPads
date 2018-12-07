@@ -12,21 +12,21 @@ seattle_zips = [98125, 98133, 98177, 98117, 98107, 98103, 98115, 98105,
 zillow_columns = ['RegionName', 'City', 'State', '2018-09']
 
 #Specifying the filepaths for data import.
-studio_rental_path = os.path.join('..', 'data', 'Zip_MedianRentalPrice_Studio.csv')
-onebr_rental_path = os.path.join('..', 'data', 'Zip_MedianRentalPrice_1Bedroom.csv')
+#studio_rental_path = os.path.join('..', 'data', 'Zip_MedianRentalPrice_Studio.csv')
+#onebr_rental_path = os.path.join('..', 'data', 'Zip_MedianRentalPrice_1Bedroom.csv')
 
 #Converting these csv's into dataframes.
 try:
-    studio_rental = pd.read_csv(studio_rental_path)
+    studio_rental = dm.GP_dataframe_import('Zip_MedianRentalPrice_Studio.csv')
 except FileNotFoundError as error:
     print(error)
-    print('Is the relative path still correct?')
+    print('Is this file still in the data folder?')
 
 try:
-    onebr_rental = pd.read_csv(onebr_rental_path)
+    onebr_rental = dm.GP_dataframe_import('Zip_MedianRentalPrice_1Bedroom.csv')
 except FileNotFoundError as error:
     print(error)
-    print('Is the relative path still correct?')
+    print('Is this file still in the data folder?')
 
 #Slicing dataframes
 studio_rental = dm.zillow_df(studio_rental, seattle_zips, 'RegionName', zillow_columns)
@@ -40,7 +40,7 @@ onebr_rental_dict = dm.zillow_dict(onebr_rental)
 Making our map layers
     ------------
 """
-#Initializing a map centered on the UWself.
+#Initializing a map centered on the UW.
 m = folium.Map(location=[47.6553, -122.3035], zoom_start=12, min_zoom=10)
 
 #Specifiying the path for zip code json data for generating map layersself.
@@ -151,12 +151,10 @@ neighborhood level. For instance, Ballard North and Ballard South."""
 beats = os.path.join('..', 'data', 'SPD_Beats_WGS84.json')
 
 #Importing the crime-data csv from the data folder
-crime_data = os.path.join('..', 'data', 'Crime_Data.csv')
-crime_df = pd.read_csv(crime_data)
+crime_df = dm.GP_dataframe_import('Crime_Data.csv')
 
-#Editing the dataframe so that it only encompasses the past two yearsself.
-crime_df['Occurred Date'] = pd.to_datetime(crime_df['Occurred Date'])
-crime_df = crime_df[crime_df['Occurred Date'] > pd.Timestamp(2017,1,1)]
+#Editing the dataframe so that it only encompasses the past two years.
+crime_df = dm.date_filter(crime_df, 'Occurred Date', 2017)
 #Adding a count column for easy groupby summation
 crime_df['Count'] = 1
 
