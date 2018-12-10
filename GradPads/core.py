@@ -18,13 +18,13 @@ ZILLOW_COLUMNS = ['RegionName', 'City', 'State', '2018-09']
 
 #Converting these csv's into dataframes.
 try:
-    studio_rental = dm.GP_dataframe_import('Zip_MedianRentalPrice_Studio.csv')
+    studio_rental = dm.gp_dataframe_import('Zip_MedianRentalPrice_Studio.csv')
 except FileNotFoundError as error:
     print(error)
     print('Is this file still in the data folder?')
 
 try:
-    onebr_rental = dm.GP_dataframe_import('Zip_MedianRentalPrice_1Bedroom.csv')
+    onebr_rental = dm.gp_dataframe_import('Zip_MedianRentalPrice_1Bedroom.csv')
 except FileNotFoundError as error:
     print(error)
     print('Is this file still in the data folder?')
@@ -64,8 +64,8 @@ def style_function(feature):
         }
     return {
         'fillColor': 'none',
-        'weight' : 0.5,
-        'line_opacity' : 0.5,
+        'weight' : 0.0,
+        'line_opacity' : 0.1,
         'color': 'Black',
         }
 
@@ -161,7 +161,7 @@ transit_geojson.add_to(m)
 beats = os.path.join('..', 'data', 'SPD_Beats_WGS84.json')
 
 #Importing the crime-data csv from the data folder
-crime_df = dm.GP_dataframe_import('Crime_Data.csv')
+crime_df = dm.gp_dataframe_import('Crime_Data.csv')
 
 #Editing the dataframe so that it only encompasses the past two years.
 crime_df = dm.date_filter(crime_df, 'Occurred Date', 2017)
