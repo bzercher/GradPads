@@ -1,15 +1,16 @@
-import pandas as pd
-import folium
+"""This module generates the GradPads map of Seattle."""
+
 import os
-import data_manipulation as dm
+import folium
 from branca.colormap import linear
+import data_manipulation as dm
 
 #Making lists to slice dataframes.
-seattle_zips = [98125, 98133, 98177, 98117, 98107, 98103, 98115, 98105,
+SEATTLE_ZIPS = [98125, 98133, 98177, 98117, 98107, 98103, 98115, 98105,
                 98112, 98102, 98109, 98119, 98199, 98121, 98101, 98104,
                 98122, 98144, 98134, 98108, 98118, 98106, 98126, 98116,
                 98136]
-zillow_columns = ['RegionName', 'City', 'State', '2018-09']
+ZILLOW_COLUMNS = ['RegionName', 'City', 'State', '2018-09']
 
 #Specifying the filepaths for data import.
 #studio_rental_path = os.path.join('..', 'data', 'Zip_MedianRentalPrice_Studio.csv')
@@ -29,15 +30,15 @@ except FileNotFoundError as error:
     print('Is this file still in the data folder?')
 
 #Slicing dataframes
-studio_rental = dm.zillow_df(studio_rental, seattle_zips, 'RegionName', zillow_columns)
-onebr_rental = dm.zillow_df(onebr_rental, seattle_zips, 'RegionName', zillow_columns)
+studio_rental = dm.zillow_df(studio_rental, SEATTLE_ZIPS, 'RegionName', ZILLOW_COLUMNS)
+onebr_rental = dm.zillow_df(onebr_rental, SEATTLE_ZIPS, 'RegionName', ZILLOW_COLUMNS)
 
 #Making dictionaries to for mapping colormap values to zip code dataself.
 studio_rental_dict = dm.zillow_dict(studio_rental)
 onebr_rental_dict = dm.zillow_dict(onebr_rental)
 
 """
-Making our map layers
+Making map layers
     ------------
 """
 #Initializing a map centered on the UW.
@@ -53,19 +54,19 @@ m.add_child(colormap)
 
 #Studio Rental Price Layer
 def style_function(feature):
+    """A style function for mapping Zillow studio rental data when it's present."""
     if feature['properties']['ZCTA5CE10'] in studio_rental_dict:
         return {
-        'fillOpacity' : 0.5,
-        'weight' : 1,
-        'fillColor': colormap(studio_rental_dict[feature['properties']['ZCTA5CE10']]),
-        'color' : 'Black',
+            'fillOpacity' : 0.5,
+            'weight' : 1,
+            'fillColor': colormap(studio_rental_dict[feature['properties']['ZCTA5CE10']]),
+            'color' : 'Black',
         }
-    else:
-        return {
-            'fillColor': 'none',
-            'weight' : 0,
-            'line_opacity' : 0.1,
-            'color': 'Black',
+    return {
+        'fillColor': 'none',
+        'weight' : 0.5,
+        'line_opacity' : 0.5,
+        'color': 'Black',
         }
 
 studio_geojson = folium.GeoJson(
@@ -78,19 +79,19 @@ studio_geojson.add_to(m)
 
 #Adding one bedroom rental price layer.
 def style_function_2(feature):
+    """A style function for mapping Zillow one bedroom data when it's present."""
     if feature['properties']['ZCTA5CE10'] in onebr_rental_dict:
         return {
-        'fillOpacity' : 0.5,
-        'weight' : 1,
-        'fillColor': colormap(onebr_rental_dict[feature['properties']['ZCTA5CE10']]),
-        'color' : 'Black',
+            'fillOpacity' : 0.5,
+            'weight' : 1,
+            'fillColor': colormap(onebr_rental_dict[feature['properties']['ZCTA5CE10']]),
+            'color' : 'Black',
         }
-    else:
-        return {
-            'fillColor': 'none',
-            'weight' : 0,
-            'line_opacity' : 0.1,
-            'color': 'Black',
+    return {
+        'fillColor': 'none',
+        'weight' : 0,
+        'line_opacity' : 0.1,
+        'color': 'Black',
         }
 
 onebr_geojson = folium.GeoJson(
@@ -113,9 +114,13 @@ greenspace_geojson = folium.GeoJson(
 greenspace_geojson.add_to(m)
 
 #Add Transit Route Data
-transit = os.path.join('..', 'data', 'Transit_Routes_for_King_County_Metro__transitroute_line.geojson')
+transit = os.path.join(
+    '..', 'data',
+    'Transit_Routes_for_King_County_Metro__transitroute_line.geojson'
+    )
 
 def style_function3(feature):
+    """A style function for mapping Transit route lines."""
     return {
         'fillColor': '#ffaf00',
         'line_opacity' : 0.5,
@@ -125,6 +130,7 @@ def style_function3(feature):
     }
 
 def highlight_function(feature):
+    """A highlight function for Transit line mouseovers."""
     return{
         'fillColor': '#ffaf00',
         'line_opacity' : 1,
@@ -139,14 +145,18 @@ transit_geojson = folium.GeoJson(
     show=False,
     style_function=style_function3,
     highlight_function=highlight_function,
-    tooltip=folium.features.GeoJsonTooltip(['ROUTE_NUM'], aliases=['Route Number'], interactive=True)
+    tooltip=folium.features.GeoJsonTooltip(
+        ['ROUTE_NUM'], aliases=['Route Number'], interactive=True
+    )
 )
 
 transit_geojson.add_to(m)
 
-#Crime data
-"""Crimes are categorized geographically by 'beats'. These are at about the
-neighborhood level. For instance, Ballard North and Ballard South."""
+
+#                            Crime data
+#                            ----------
+#Crimes are categorized geographically by 'beats'. These are at about the
+#neighborhood level. For instance, Ballard North and Ballard South.
 #Directory file path for beat geojson data.
 beats = os.path.join('..', 'data', 'SPD_Beats_WGS84.json')
 
@@ -167,12 +177,12 @@ total_crime_layer = folium.Choropleth(
     geo_data=beats,
     data=total_crime_per_beat,
     columns=['Beat', 'Count'],
-    key_on= 'feature.properties.beat',
+    key_on='feature.properties.beat',
     fill_color='BuPu',
-    nan_fill_color = 'none',
-    line_weight = 0.5,
+    nan_fill_color='none',
+    line_weight=0.5,
     name='Total Crime Incidents',
-    legend_name = 'Total Crime Incidents 2018'
+    legend_name='Total Crime Incidents 2018'
 )
 
 total_crime_layer.add_to(m)
@@ -181,18 +191,19 @@ theft_category_groupby = crime_df.groupby(['Beat', 'Crime Subcategory'], as_inde
 theft_category_groupby = theft_category_groupby[['Beat', 'Crime Subcategory', 'Count']]
 
 #Making a bike-theft specific layer
-bike_theft_groupby = theft_category_groupby[theft_category_groupby['Crime Subcategory'] == 'THEFT-BICYCLE']
+bike_theft_groupby = theft_category_groupby[
+    theft_category_groupby['Crime Subcategory'] == 'THEFT-BICYCLE']
 
 bike_theft_layer = folium.Choropleth(
     geo_data=beats,
     data=bike_theft_groupby,
     columns=['Beat', 'Count'],
-    key_on= 'feature.properties.beat',
+    key_on='feature.properties.beat',
     fill_color='BuPu',
-    nan_fill_color = 'none',
-    line_weight = 0.5,
+    nan_fill_color='none',
+    line_weight=0.5,
     name='Bike Theft',
-    legend_name = 'Incidents of Bike Theft, Since 2017'
+    legend_name='Incidents of Bike Theft, Since 2017'
 )
 
 bike_theft_layer.add_to(m)
@@ -204,12 +215,12 @@ car_prowl_layer = folium.Choropleth(
     geo_data=beats,
     data=car_prowl,
     columns=['Beat', 'Count'],
-    key_on= 'feature.properties.beat',
+    key_on='feature.properties.beat',
     fill_color='BuPu',
-    nan_fill_color = 'none',
-    line_weight = 0.5,
+    nan_fill_color='none',
+    line_weight=0.5,
     name='Car Prowl',
-    legend_name = 'Incidents of Car Prowl, Since 2017'
+    legend_name='Incidents of Car Prowl, Since 2017'
 )
 
 car_prowl_layer.add_to(m)
