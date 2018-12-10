@@ -49,6 +49,22 @@ class test_zillow_dictTestCase(unittest.TestCase):
         dict = dm.zillow_dict(df)
         self.assertTrue(dict.index.name == 'RegionName')
 
+class test_date_filter_TestCase(unittest.TestCase):
+    """Tests for dm.date_filter"""
+
+    def test_date_filter_year(self):
+        data_frame = pd.DataFrame({'Dates' : ['01/10/2018', '01/11/2018', '01/12/2018', '12/10/2016'],
+                           'Dummy' : [1, 2, 3, 4]
+                           })
+        data_frame = dm.date_filter(data_frame, 'Dates', 2017)
+        self.assertTrue(data_frame['Dates'].min() > pd.Timestamp(2017,1,1))
+
+    def test_date_filter_type(self):
+        data_frame = pd.DataFrame({'Dates' : ['01/10/2018', '01/11/2018', '01/12/2018', '12/10/2016'],
+                           'Dummy' : [1, 2, 3, 4]
+                           })
+        data_frame = dm.date_filter(data_frame, 'Dates', 2017)
+        self.assertTrue(str(type(data_frame['Dates'])=="<class 'pandas._libs.tslibs.timestamps.Timestamp'>"))
 
 if __name__ == '__main__':
     unittest.main()
