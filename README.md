@@ -1,10 +1,8 @@
 # GradPads
 
-## Helping Graduate Students find affordable, enjoyable housing.
+## Helping Graduate Students find affordable, enjoyable, and safe housing.
 
-This visualization tool utilizes folium to map housing data in Seattle. With
-graduate students in mind, GradPads aggregates more than just price data to give
-users a more complete view of a neighborhood.
+This visualization tool utilizes folium to map housing data in Seattle. With graduate students in mind, GradPads aggregates more than just price data to give users a more complete view of a neighborhood.
 
 ### Organization of the project
 
