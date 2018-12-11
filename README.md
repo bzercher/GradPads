@@ -1,5 +1,4 @@
 # GradPads
-
 ----
 
 ## Helping Graduate Students find affordable, enjoyable, and safe housing.
@@ -49,4 +48,10 @@ Future work on this package will incorporate other cities with open-data initiat
 
 Our intended use case for this project is an incoming UW student who is moving to Seattle without being able to see the neighborhoods. In these situations, potential renters will venture to Craigslist or a similar site to enter in budget constraints. The user may be shown 5 different apartments in different neighborhoods that fall in their price range; however, without further information, the user may struggle to differentiate these properties.
 
-By using GradPads, these apartments can be compared by proximity to transit, parks, and crime information. Average monthly rental prices are also included to give a general overview of neighborhood pricing, to aid in continued searching. 
+By using GradPads, these apartments can be compared by proximity to transit, parks, and crime information. Average monthly rental prices are also included to give a general overview of neighborhood pricing, to aid in continued searching.
+
+###Installation Instructions
+
+###Licensing
+
+This project is licensed under the terms of the MIT license. 
