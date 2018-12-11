@@ -50,8 +50,32 @@ Our intended use case for this project is an incoming UW student who is moving t
 
 By using GradPads, these apartments can be compared by proximity to transit, parks, and crime information. Average monthly rental prices are also included to give a general overview of neighborhood pricing, to aid in continued searching.
 
-###Installation Instructions
+### Installation Instructions
 
-###Licensing
+To generate the GradPads map, clone this repository to your computer:
 
-This project is licensed under the terms of the MIT license. 
+```
+git clone https://github.com/bzercher/GradPads
+```
+
+Then, navigate to the GradPads directory and install the required dependencies:
+
+```
+cd GradPads/
+pip install --user -r requirements.txt
+```
+
+To generate the map, navigate to the GradPads subfolder and run the following:
+
+```
+cd GradPads/
+python core.py
+```
+
+This will generate an HTML object titled GradPads in the current directory. Open this in your favorite browser to interact with the map. 
+
+
+
+### Licensing
+
+This project is licensed under the terms of the MIT license.
