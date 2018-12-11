@@ -1,20 +1,17 @@
-Component Specification:
+# Component Specification
+----
+## Software components
+---
+### Data storage
 
-Software components:
-	Data storage: We will take advantage of our free unlimited storage as UW students and store csv’s on Google Drive. Our lab uses Google Drive extensively, and both members of our project team have Drive FileStream installed on our computers. Data is stored in the cloud, but FileStream creates a local repository where Python can import data as if it were stored locally on our C: drive. We will set up a Team Drive.
+Data is stored in the repository in the data folder. The largest dataset is 46 MB, which is falls under Github's storage limit. Because there are not large datasets, our python script that generates the map meets any data management needs, so long as the directory structure remains unchanged.
 
-	Data manager: Initially, we will make a jupyter notebook that will import data into dataframes to be visualized with our visualization manager. Using a jupyter notebook will allow us to tinker with the development of map layers quickly and easily.
+### Visualization
 
-	Visualization manager: Bokeh or Folium (TBD this weekend as we finish our Technology Review) - Both packages output HTML maps that we can host in a webpage.
-Interactions
+The [folium](https://github.com/python-visualization/folium) package is used to produce our the visualization of our map layers.
 
-Interactions:
-	We plan for our software interactions to all have taken place before our users set out to accomplish use cases. By generating HTML output, users won’t need to troubleshoot software interactions between our stored data, the data manager, and the visualization manager. Our jupyter notebook will access data stored on Google Drive and generate, say, the bus route maps. Using the Bokeh/Folium package, we will provide this map as an optional, interactive overlay in our HTML output. We can fine-tune these interactions to produce a final HTML output which our users will interact with.
+##Interactions
+---
+The current plan for a finalized GradPads product is a webtool hosted online. By generating HTML output, users won’t need to troubleshoot software interactions between our stored data and the visualizations.
 
-Preliminary plan:
--Finish evaluating Bokeh and Folium
-	-Run Bokeh jupyter notebook examples
-	-Download and run Folium
-	-Look at housing example shown in class to get a handle on Folium output
--Make new Team Drive for data storage
--Begin jupyter notebook writing to import and clean data and interface with visualization tool
+In this package distribution, we supply the code for users with a python environment to create the HTML object. This can be accomplished by simply installing the package and running `python core.py` and then opening the created HTML file (as outlined in our README installation instructions). At this stage of development, a graduate student could clone our repository, run this line of code, and carry out the specific use cases laid out in the FunctionalSpecification. 
