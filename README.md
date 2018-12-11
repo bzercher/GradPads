@@ -55,7 +55,7 @@ By using GradPads, these apartments can be compared by proximity to transit, par
 To generate the GradPads map, clone this repository to your computer:
 
 ```
-git clone https://github.com/bzercher/GradPads
+git clone https://github.com/bzercher/GradPads.git
 ```
 
 Then, navigate to the GradPads directory and install the required dependencies:
@@ -72,9 +72,11 @@ cd GradPads/
 python core.py
 ```
 
-This will generate an HTML object titled GradPads in the current directory. Open this in your favorite browser to interact with the map. 
+This will generate an HTML object titled GradPads in the current directory. Open this in your favorite browser to interact with the map.
 
+### Examples
 
+Our examples folder contains jupyter notebooks that show how to make folium geojson layers representing data of interest in the GradPads visualization. These are the code snippets that are then reused in various forms in the core.py script that generates the map. 
 
 ### Licensing
 
